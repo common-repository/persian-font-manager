@@ -1,0 +1,2847 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wordpress Persian Font Manager\n"
+"POT-Creation-Date: 2021-09-21 10:20+0430\n"
+"PO-Revision-Date: 2021-09-21 10:24+0430\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_html__;_n:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: *.css\n"
+"X-Poedit-SearchPathExcluded-2: ../persian-flatsome/includes/activator\n"
+
+#: includes/Main.php:27
+msgid "Wordpress Persian Font Manager"
+msgstr ""
+
+#: includes/Main.php:28
+msgid "This plugin is for translating y admin pages to persian."
+msgstr "این پلاگین به منظور تغییر نوع فونت قالب ها و بخش مدیریت  وردپرس نوشته شده است."
+
+#: includes/Main.php:29
+msgid "DJ"
+msgstr "دیجی"
+
+#: includes/Main.php:46
+msgid "Iran sans"
+msgstr "ایران‌سنس"
+
+#: includes/Main.php:47
+msgid "Iran sans (Persian number)"
+msgstr "ایران سنس (اعداد فارسی)"
+
+#: includes/Main.php:48
+msgid "Iran sans Hand writing"
+msgstr "ایران سنس دست‌نویس"
+
+#: includes/Main.php:49
+msgid "Iran Yekan"
+msgstr "ایران یکان"
+
+#: includes/Main.php:50
+msgid "Iran Yekan (Persian number)"
+msgstr "ایران یکان (اعداد فارسی)"
+
+#: includes/Main.php:51
+msgid "Iran Sharp"
+msgstr "ایران شارپ"
+
+#: includes/Main.php:52
+msgid "Vazir"
+msgstr "وزیر"
+
+#: includes/Main.php:53
+msgid "Sahel"
+msgstr "ساحل"
+
+#: includes/Main.php:54
+msgid "Shabnam"
+msgstr "شبنم"
+
+#: includes/Main.php:55
+msgid "Samim"
+msgstr "صمیم"
+
+#: includes/Main.php:56
+msgid "Gandom"
+msgstr "گندم"
+
+#: includes/Main.php:57
+msgid "Tanha"
+msgstr "تنها"
+
+#: includes/Main.php:58
+msgid "Parastoo"
+msgstr "پرستو"
+
+#: includes/Main.php:59
+msgid "Dirooz"
+msgstr "دیروز"
+
+#: includes/Main.php:60
+msgid "Anjoman"
+msgstr "انجمن"
+
+#: includes/Main.php:61
+msgid "Dana"
+msgstr "دانا"
+
+#: includes/Main.php:62
+msgid "Dana Fa Numbers"
+msgstr "دانا (اعداد فارسی)"
+
+#: includes/Main.php:95 includes/Main.php:96
+msgid "Persian Font Manager"
+msgstr "فونت فارسی"
+
+#: includes/Main.php:106
+msgid "Persian Font Manager settings"
+msgstr "تنظیمات فونت فارسی"
+
+#: includes/Main.php:109
+msgid "General"
+msgstr "عمومی"
+
+#: includes/Main.php:138
+msgid "Typography"
+msgstr "تایپوگرافی"
+
+#: includes/Main.php:146
+msgid "Font"
+msgstr "فونت"
+
+#: includes/Main.php:153
+msgid "Dashboard Font"
+msgstr "فونت پیشخوان"
+
+#: includes/Main.php:163
+msgid "Theme default"
+msgstr "پیش‌فرض پوسته"
+
+#: includes/Main.php:174
+msgid "WordPress default"
+msgstr "پیش‌فرض وردپرس"
+
+#~ msgid "Mojtaba Darvishi"
+#~ msgstr "مجتبی درویشی"
+
+#~ msgid "Flatsome WooCommerce Theme"
+#~ msgstr "قالب فروشگاهی فلت‌سام"
+
+#~ msgid "Persian flatsome"
+#~ msgstr "فلت‌سام فارسی"
+
+#~ msgid "It seems your installed persian flatsome version is not compatible with your theme version"
+#~ msgstr "ظاهرا نسخه افزونه فلت سام فارسی که شما نصب دارید با نسخه قالب سازگار نیست. لطفا افزونه فلت سام فارسی را بروزرسانی کنید"
+
+#~ msgid "Update persian flatsome"
+#~ msgstr "بروزرسانی فلت‌سام فارسی"
+
+#~ msgid "Global Settings"
+#~ msgstr "تنظیمات سراسری"
+
+#~ msgid "Header Scripts"
+#~ msgstr "اسکریپت‌های هدر"
+
+#~ msgid "Add custom scripts inside HEAD tag. You need to have SCRIPT tag around the scripts."
+#~ msgstr "افزودن اسکریپت‌های دلخواه داخل تگ HEAD پوسته.لازم است اسکریپت‌ها را داخل تگ SCRIPT قرار دهید."
+
+#~ msgid "Footer Scripts"
+#~ msgstr "اسکریپت‌های فوتر"
+
+#~ msgid "Here is the place to paste your Google Analytics code or any other JS code you might want to add to be loaded in the footer of your website."
+#~ msgstr "این‌جا محل قرار دادن کد گوگل آنالیتیکز یا هر کد جاوا اسکریپتی دیگری که مایل هستید در فوتر سایت لود شود است."
+
+#~ msgid "Body Scripts - Top"
+#~ msgstr "اسکریپت‌های بادی - بالا"
+
+#~ msgid "Add custom scripts just after the BODY tag opened. You need to have a SCRIPT tag around scripts."
+#~ msgstr "افزودن اسکریپت‌های دلخواه بلافاصله بعد از باز شدن تگ BODY. لازم است اسکریپت‌ها را داخل تگ SCRIPT قرار دهید."
+
+#~ msgid "Body Scripts - Bottom"
+#~ msgstr "اسکریپت‌های بادی - پایین"
+
+#~ msgid "Add custom scripts just before the BODY tag closed. You need to have a SCRIPT tag around scripts."
+#~ msgstr "افزودن اسکریپت‌های دلخواه بلافاصله بعد از بسته شدن تگ BODY. لازم است اسکریپت‌ها را داخل تگ SCRIPT قرار دهید."
+
+#~ msgid "Flatsome 2.0 Content Support"
+#~ msgstr "پشتیبانی از محتوای فلت‌سام ۲.۰"
+
+#~ msgid "Support content made in Flatsome 2.0. Disable to speed up site."
+#~ msgstr "پشتیبانی از محتوای فلت‌سام ۲.۰ برای افزایش سرعت سایت غیرفعال شود."
+
+#~ msgid "Custom CSS"
+#~ msgstr "CSS دلخواه"
+
+#~ msgid "All screens"
+#~ msgstr "همه صفحات نمایش"
+
+#~ msgid "Add custom CSS here"
+#~ msgstr "کدهای CSS سفارشی خود را اینجا وارد کنید"
+
+#~ msgid "Tablets and down"
+#~ msgstr "تبلت به پایین"
+
+#~ msgid "Add custom CSS here for tablets and mobile"
+#~ msgstr "کدهای CSS سفارشی خود برای تبلت و موبایل را اینجا وارد کنید"
+
+#~ msgid "Mobile only"
+#~ msgstr "فقط موبایل"
+
+#~ msgid "Add custom CSS here for mobile view"
+#~ msgstr "کدهای CSS سفارشی خود برای موبایل را اینجا وارد کنید"
+
+#~ msgid "Performance"
+#~ msgstr "کارایی"
+
+#~ msgid "<p style=\"font-size:14px\">Use with caution! Disable if you have plugin compatibility problems.</p>"
+#~ msgstr " <p style=\"font-size:14px\">با احتیاط استفاده کنید! اگر تداخلی رخ داد این گزینه‌ها را غیرفعال کنید.</p>"
+
+#~ msgid "Preload pages"
+#~ msgstr "پیش بارگزاری برگه‌ها"
+
+#~ msgid "Preload pages right before a user clicks on it for blazing fast browsing between pages."
+#~ msgstr "پیش بارگزاری برگه‌ها درست قبل از کلیک کاربر به منظور بهبود سرعت مرور بین صفحات."
+
+#~ msgid "Lazy Load Banner and Section backgrounds"
+#~ msgstr "بارگزاری تنبل بنرها و تصویر پس‌زمینه بخش‌های مختلف"
+
+#~ msgid "Enable lazy loading of banner and section backgrounds."
+#~ msgstr "بارگزاری تنبل بنرها و تصویر پس‌زمینه بخش‌های مختلف."
+
+#~ msgid "Lazy Load Images"
+#~ msgstr "بارگزاری تنبل تصاویر"
+
+#~ msgid "Enable lazy loading for images. It will generate an inline blank Base64 image with the same aspect ratio as the original image."
+#~ msgstr "فعال‌سازی بارگزاری تنبل برای تصاویر. این گزینه یک تصویر Base64 خالی داخلی با مقایس تصویر اصلی ایجاد خواهد کرد."
+
+#~ msgid "Disable theme style.css"
+#~ msgstr "غیرفعال سازی style.css پوسته"
+
+#~ msgid "Disable loading of theme style.css. This file is only needed if you have added custom CSS to that file."
+#~ msgstr "غیرفعال سازی بارگزاری style.css پوسته. این فایل تنها زمانی مورد نیاز است که داخل آن کدهای سی اس اس نوشته باشید."
+
+#~ msgid "Disable Emoji script"
+#~ msgstr "حذف اسکریپت شکلک‌ها"
+
+#~ msgid "Remove WP emoji scripts from front-end."
+#~ msgstr "حذف اسکریپت شکلک‌های وردپرس از فرانت‌اند."
+
+#~ msgid "Disable Block library css"
+#~ msgstr "حذف کتابخانه سی اس اس بلاک‌ها"
+
+#~ msgid "Remove default block library css coming from WordPress"
+#~ msgstr "حذف کتابخانه سی اس اس بلاک‌های وردپرس"
+
+#~ msgid "Disable jQuery Migrate"
+#~ msgstr "غیرفعال سازی jQuery Migrate"
+
+#~ msgid "Remove jQuery Migrate. Most up-to-date front-end code and plugins don’t require jquery-migrate.min.js. More often than not, keeping this - simply adds unnecessary load to your site. (for < WP 5.5)"
+#~ msgstr "حذف jQuery Migrate. بیشتر افزونه‌ها و کدهای فرانت‌اند به روز، نیازی به jquery-migrate.min.js ندارند. در نتیجه نگه داشتن این باعث افزودن بار اضافه به سایت شما می‌شود (برای وردپرس ۵.۵به بالا)"
+
+#~ msgid "Site Loader"
+#~ msgstr "لودر سایت"
+
+#~ msgid "Enable Site Loader overlay when loading the site."
+#~ msgstr "فعال‌سازی لودر هنگام بارگزاری سایت."
+
+#~ msgid "Color"
+#~ msgstr "رنگ"
+
+#~ msgid "Light"
+#~ msgstr "روشن"
+
+#~ msgid "Dark"
+#~ msgstr "تیره"
+
+#~ msgid "Background Color"
+#~ msgstr "رنگ پس‌زمینه"
+
+#~ msgid "Site Search"
+#~ msgstr "جستجوی سایت"
+
+#~ msgid "Live Search"
+#~ msgstr "جستجوی زنده (ای‌جکس)"
+
+#~ msgid "Enable live search for products and pages."
+#~ msgstr "فعال‌سازی جستجوی زنده برای محصولات و برگه‌ها."
+
+#~ msgid "Search placeholder"
+#~ msgstr "متن Placeholder جستجو"
+
+#~ msgid "Change the search field placeholder"
+#~ msgstr "تغییر متن Placeholder جستجو"
+
+#~ msgid "Show Blog and pages in search results."
+#~ msgstr "نمایش مطالب بلاگ و برگه‌ها در نتایج جستجو."
+
+#~ msgid "Enable blog and pages in search results"
+#~ msgstr "فعال‌سازی نمایش مطالب بلاگ و برگه‌ها در نتایج جستجو"
+
+#~ msgid "Search Products Order By"
+#~ msgstr "مرتب سازی نتایج جستجوی محصول براساس"
+
+#~ msgid "Relevance"
+#~ msgstr "مرتبط بودن"
+
+#~ msgid "Title"
+#~ msgstr "عنوان"
+
+#~ msgid "Price"
+#~ msgstr "قیمت"
+
+#~ msgid "Search Product SKU"
+#~ msgstr "جستجوی شناسه محصول"
+
+#~ msgid "Allow searching by SKU in live search."
+#~ msgstr "اجازه برای جستجوی زنده در شناسه محصول."
+
+#~ msgid "Search Product Tag"
+#~ msgstr "چستجوی برچسب محصول"
+
+#~ msgid "Allow searching by product tags in live search."
+#~ msgstr "اجازه برای جستجوی برچسب محصولات در جستجوی زنده."
+
+#~ msgid "Instagram"
+#~ msgstr "اینستاگرام"
+
+#~ msgid "Accounts"
+#~ msgstr "حساب‌های کاربری"
+
+#~ msgid "Google APIs"
+#~ msgstr "وب‌سرویس‌های گوگل"
+
+#~ msgid "Google Maps API"
+#~ msgstr "وب‌سرویس‌ نقشه گوگل"
+
+#~ msgid "Enter Google Maps API key here to enable Maps. You can generate one here: <a target='_blank' href='https://developers.google.com/maps/documentation/javascript/get-api-key'>Google Maps API</a>"
+#~ msgstr "برای فعال‌سازی نقشه‌ها کلید وب‌سرویس نقشه گوگل را اینجا وارد کنید. از اینجا می‌توانید یکی بسازید: <a target='_blank' href='https://developers.google.com/maps/documentation/javascript/get-api-key'>وب‌سرویس نقشه گوگل</a>"
+
+#~ msgid "Maintenance Mode"
+#~ msgstr "حالت تعمیر و نگه‌داری"
+
+#~ msgid "Enable Maintenance Mode for all users except admins."
+#~ msgstr "فعال‌سازی حالت تعمیر و نگه‌داری برای همه کاربران به جز مدیر‌ها."
+
+#~ msgid "Admin Notice"
+#~ msgstr "پیام مدیر"
+
+#~ msgid "Show admin notice when Maintenance Mode is enabled."
+#~ msgstr "نمایش پیام مدیر هنگام فعال بودن حالت تعمیر و نگه‌داری."
+
+#~ msgid "Custom Maintenance Page"
+#~ msgstr "صفحه حالت تعمیر و نگه‌داری دلخواه"
+
+#~ msgid "Set a custom page as maintenance page. Only this page will be visible for visitors."
+#~ msgstr "برگه‌ای را برای نمایش به عنوان صفحه حالت تعمیر و نگه‌داری تعیین کنید. تنها این برگه برای کاربران قابل دسترس خواهد بود."
+
+#~ msgid "Maintenance Mode Text"
+#~ msgstr "متن حالت تعمیر و نگه‌داری"
+
+#~ msgid "The text that will be visible to your customers when accessing maintenance screen."
+#~ msgstr "متنی که کاربران هنگام فعال بودن حالت تعمیر و نگه‌داری مشاهده خواهند کرد."
+
+#~ msgid "404 Page"
+#~ msgstr "صفحه ۴۰۴"
+
+#~ msgid "Custom 404 Block"
+#~ msgstr "بلاک دلخواه ۴۰۴"
+
+#~ msgid "Replace 404 page content with a Custom Block that you can edit in the Page Builder."
+#~ msgstr "جایگزینی محتوای صفحه ۴۰۴ با یک بلاک دلخواه که قابل ویرایش با یوایکس بیلدر است."
+
+#~ msgid "WooCommerce"
+#~ msgstr "ووکامرس"
+
+#~ msgid "Disable Reviews Global"
+#~ msgstr "غیرفعال کردن نقد و بررسی سراسری"
+
+#~ msgid "Disable reviews globally."
+#~ msgstr "غیرفعال کردن نقد و بررسی به صورت سراسری."
+
+#~ msgid "Enable default WooCommerce product gallery"
+#~ msgstr "فعال‌سازی گالری تصاویر محصول پیش‌فرض ووکامرس"
+
+#~ msgid "Use the default WooCommerce gallery slider for plugin compatibility, such as \"Additional Variation Images\"."
+#~ msgstr "برای هماهنگی با افزونه‌هایی مثل \"\" از اسلایدر گالری تصاویر پیش‌فرض ووکامرس استفاده کنید."
+
+#~ msgid "Shop header"
+#~ msgstr "سربرگ فروشگاه"
+
+#~ msgid "Enter HTML that should be placed on top of main shop page. Shortcodes are allowed."
+#~ msgstr "کدهای اچ تی ام الی که می‌خواهید در بالای صفحه اصلی فروشگاه نمایش داده شوند را وارد کنید. استفاده از شورت‌کدها مجاز است."
+
+#~ msgid "Additional Global tab/section title"
+#~ msgstr "عنوان تب\\بخش سراسری دلخواه"
+
+#~ msgid "Additional Global tab/section content"
+#~ msgstr "متن تب\\بخش سراسری دلخواه"
+
+#~ msgid "HTML before Add To Cart button (Global)"
+#~ msgstr "کد HTML قبل از دکمه افزودن به سبد خرید (سراسری)"
+
+#~ msgid "Enter HTML and shortcodes that will show before Add to cart selections."
+#~ msgstr "کدهای اچ تی ام ال و شورت‌کدهایی که می‌خواهید قبل از بخش افزودن به سبد خرید نمایش داده شود را وارد کنید. ."
+
+#~ msgid "HTML after Add To Cart button (Global)"
+#~ msgstr "کد HTML بعد از دکمه افزودن به سبد خرید (سراسری)"
+
+#~ msgid "Enter HTML and shortcodes that will show after Add to cart button."
+#~ msgstr "کدهای اچ تی ام ال و شورت‌کدهایی که می‌خواهید بعد از بخش افزودن به سبد خرید نمایش داده شود را وارد کنید."
+
+#~ msgid "Thank You Page Content / Scripts"
+#~ msgstr "محتوا \\ اسکریپت صفحه تشکر"
+
+#~ msgid "Enter scripts or custom HTML content for the thank you page here"
+#~ msgstr "اسکریپت یا محتوای اچ تی ام ال دلخواه برای صفحه تشکر را اینجا وارد کنید"
+
+#~ msgid "Catalog Mode"
+#~ msgstr "حالت کاتالوگ"
+
+#~ msgid "Enable catalog mode"
+#~ msgstr "فعال سازی حالت کاتالوگ"
+
+#~ msgid "Enable catalog mode. This will disable Add To Cart buttons / Checkout and Shopping cart."
+#~ msgstr "فعال سازی حالت کاتالوگ. این دکمه‌های افزودن به سبد خرید \\ تسویه حساب و سبد خرید را غیرفعال خواهد کرد."
+
+#~ msgid "Disable prices"
+#~ msgstr "فعال سازی حالت کاتالوگ"
+
+#~ msgid "Select to disable prices on category pages and product page."
+#~ msgstr "برای غیرفعال‌سازی قیمت‌ها در صفحات دسته‌بندی و محصول این گزینه را انتخاب کنید."
+
+#~ msgid "Cart / Account replacement (header)"
+#~ msgstr "جایگزین سبد خرید \\ حساب کاربری (سربرگ)"
+
+#~ msgid "Enter content you want to display instead of Account / Cart. Shortcodes are allowed. For search box enter <b>[search]</b>. For social icons enter: <b>[follow twitter='http://' facebook='http://' email='post@email.com' pinterest='http://']</b>"
+#~ msgstr "محتوایی که مایل هستید به جای حساب کاربری \\ سبد خرید نمایش داده شود را وارد کنید. استفاده از شورت‌کدها مجاز است. برای باکس جستجو از <b>[search]</b> استفاده کنید. برای آیکن‌های شبکه‌های اجتماعی از <b>[follow twitter='http://' facebook='http://' email='post@email.com' pinterest='http://']</b> استفاده کنید"
+
+#~ msgid "Add to cart replacement - Product page"
+#~ msgstr "جایگزین افزودن به سبد خرید - صفحه محصول"
+
+#~ msgid "Enter contact information or enquery form shortcode here."
+#~ msgstr "اطلاعات تماس با فرم استعلام را اینجا قرار دهید."
+
+#~ msgid "Add to cart replacement - Product Quick View"
+#~ msgstr "جایگزین افزودن به سبد خرید - نمایش سریع محصول"
+
+#~ msgid "Enter text that will show in product quick view"
+#~ msgstr "متنی که در مشاهده سریع محصول نمایش داده می‌شود را وارد کنید"
+
+#~ msgid "Infinite Scroll"
+#~ msgstr "اسکرول بی‌نهایت"
+
+#~ msgid "Infinite scroll category/products"
+#~ msgstr "اسکرول بی‌نهایت دسته‌بندی\\محصولات"
+
+#~ msgid "Enable infinite scroll for WooCommerce category/product archive."
+#~ msgstr "فعال‌سازی اسکرول بی‌نهایت برای بایگانی محصول\\دسته‌بندی ووکامرس."
+
+#~ msgid "Loading type"
+#~ msgstr "نوع لودینگ"
+
+#~ msgid "Select loading type animation or on button click."
+#~ msgstr "نوع انیمیشن لودینگ را انتخاب کنید."
+
+#~ msgid "Custom loader image"
+#~ msgstr "تصویر دلخواه لودینگ"
+
+#~ msgid "Upload or choose a custom loader image (for loading type 'Custom Image')."
+#~ msgstr "بارگذاری یا انتخاب تصویر لودینگ دلخواه (برای نوع لودینگ 'تصویر دلخواه')."
+
+#~ msgid "Portfolio"
+#~ msgstr "نمونه کارها"
+
+#~ msgid "Enable Portfolio"
+#~ msgstr "فعال‌سازی نمونه کارها"
+
+#~ msgid "Enable portfolio"
+#~ msgstr "فعال‌سازی نمونه کارها"
+
+#~ msgid "Mobile"
+#~ msgstr "موبایل"
+
+#~ msgid "Parallax Mobile Support"
+#~ msgstr "پشتیبانی از پارالاکس موبایل"
+
+#~ msgid "Enable parallax for mobile devices"
+#~ msgstr "فعال سازی پارالاکس برای دستگاه‌های موبایل"
+
+#~ msgid "Integrations"
+#~ msgstr "همگام‌سازی"
+
+#~ msgid "<p style=\"font-size:14px\">Additional options for integrated plugins will be shown here if they are activated.</p>"
+#~ msgstr "<p style=\"font-size:14px\">گزینه‌های اضافی برای همگام سازی با سایر افزونه‌ها در صورت فعال شدن آن‌ها اینجا نمایش داده خواهد شد.</p>"
+
+#~ msgid "Flatsome Studio"
+#~ msgstr "فلت‌سام استودیو"
+
+#~ msgid "Enable access to Flatsome Studio in UX Builder"
+#~ msgstr "فعال‌سازی دسترسی به فلت‌سام استودیو در صفحه ساز"
+
+#~ msgid "Yoast Primary Category"
+#~ msgstr "دسته اصلی یواست"
+
+#~ msgid "Use Yoast primary category on product category pages and elements."
+#~ msgstr "استفاده از دسته اصلی یواست در صفحات محصول و عناصر."
+
+#~ msgid "Yoast Breadcrumbs"
+#~ msgstr "بردکرامب یواست"
+
+#~ msgid "Use Yoast breadcrumbs on product category pages, single product pages and elements."
+#~ msgstr "استفاده از برد کرامب یواست در صفحات دسته محصول، صفحات محصول و سایر عناصر."
+
+#~ msgid "Remove the last static crumb on single product pages (product title)."
+#~ msgstr "حذف آخرین گزینه ثابت در صفحه تکی محصول (عنوان محصول)."
+
+#~ msgid "Rank Math Primary Category"
+#~ msgstr "دسته اصلی Rank Math"
+
+#~ msgid "Use on product category pages and elements."
+#~ msgstr "استفاده در صفحات دسته‌بندی محصول و المان‌ها"
+
+#~ msgid "Manage custom product layout priority."
+#~ msgstr "مدیریت اولویت طرح‌بندی دلخواه محصول"
+
+#~ msgid "Rank Math Breadcrumbs"
+#~ msgstr "بردکرامبز Rank Math"
+
+#~ msgid "Use on product category pages, single product pages and elements."
+#~ msgstr "استفاده در صفحات دسته‌بندی محصول، صفحات تکی محصول و المان‌ها"
+
+#~ msgid "Backup and Import"
+#~ msgstr "برون‌بری و درون‌ریزی"
+
+#~ msgid "Backup and Restore Options"
+#~ msgstr "تنظیمات پشتیبان گیری و بازیابی پشتیبان"
+
+#~ msgid "You can use the two buttons below to backup your current options, and then restore it back at a later time. This is useful if you want to experiment on the options but would like to keep the old settings in case you need it back."
+#~ msgstr "می توانید از دو دکمه زیر برای تهیه پشتیبان از تنظیمات جاری و بازیابی آن استفاده کنید. این مورد در زمانی که میخواهید به صورت تجربی با تنظیمات آشنا شوید و تنظیمات جاری را لازم دارید مورد استفاده قرار می گیرد."
+
+#~ msgid "Transfer Theme Options Data"
+#~ msgstr "انتقال تنظیمات قالب"
+
+#~ msgid "You can transfer the saved options data between different installs by copying the text inside the text box. To import data from another install, replace the data in the text box with the one from another install and click \"Import Options\"."
+#~ msgstr "با استفاده از کپی کردن متن داخل باکس متنی زیر می‌توانید داده‌های ذخیره شده تنظیمات را بین دو نصب مختلف از پوسته جا‌به‌جا کنید. برای درون‌ریزی داده‌ها از یک نصب دیگر، داده‌های کپی شده را داخل باکس متنی قرار داده و بر روی گزینه \"درون‌ریزی تنظیمات\" کلیک کنید."
+
+#~ msgid "Advanced"
+#~ msgstr "پیشرفته"
+
+#~ msgid "Setup"
+#~ msgstr "راه‌اندازی"
+
+#~ msgid "Introduction"
+#~ msgstr "معرفی"
+
+#~ msgid "Child Theme"
+#~ msgstr "قالب چایلد"
+
+#~ msgid "Plugins"
+#~ msgstr "افزونه‌ها"
+
+#~ msgid "Content"
+#~ msgstr "محتوا"
+
+#~ msgid "Logo & Design"
+#~ msgstr "لوگو و طراحی"
+
+#~ msgid "Support"
+#~ msgstr "پشتیبانی"
+
+#~ msgid "Ready!"
+#~ msgstr "آماده!"
+
+#~ msgid "...verifying"
+#~ msgstr "...در حال تایید"
+
+#~ msgid "Theme &rsaquo; Setup Wizard"
+#~ msgstr "قالب &rsaquo; عملیات راه‌اندازی"
+
+#~ msgid "Return to the WordPress Dashboard"
+#~ msgstr "بازگشت به پیشخوان وردپرس"
+
+#~ msgid "Welcome to the setup wizard for %s."
+#~ msgstr "به راه‌انداز %s خوش آمدید."
+
+#~ msgid "It looks like you may have recently upgraded to this theme. Great! This setup wizard will help ensure all the default settings are correct. It will also show some information about your new website and support options."
+#~ msgstr "ظاهرا جدیدا به این قالب بروزرسانی کرده‌اید. عالیه! این راه‌انداز از صحیح همه تنظیمات پیش‌فرض اطمینان حاصل خواهد کرد. همچنین اطلاعاتی درباره وبسایت جدید شما و گزینه‌های پشتیبانی نمایش خواهد داد."
+
+#~ msgid "Let's Go!"
+#~ msgstr "بزن بریم!"
+
+#~ msgid "Not right now"
+#~ msgstr "الان نه"
+
+#~ msgid "It looks like you already have setup Flatsome."
+#~ msgstr "ظاهرا قبلا راه اندازی را انجام داده اید."
+
+#~ msgid "Run Setup Wizard Again"
+#~ msgstr "راه‌اندازی دوباره"
+
+#~ msgid "Exit to Flatsome Panel"
+#~ msgstr "برگشت به پنل فلت‌سام"
+
+#~ msgid "Thank you for choosing the %s theme from ThemeForest. This quick setup wizard will help you configure your new website. This wizard will install the required WordPress plugins, default content, logo and tell you a little about Help &amp; Support options. <br/>It should only take 3-5 minutes."
+#~ msgstr "از انتخاب قالب%s ژاکت از شما متشکریم. این راه انداز سریع به شما کمک خواهد کرد تا سایت خود را تنظیم کنید. این راه‌انداز افزونه‌های مورد نیاز وردپرس،محتوای پیش‌فرض و لوگو را نصب خواهد کرد. همچنین درباره گزینه‌های پشتیبانی به شما خواهد گفت. <br/> حدودا ۳-۵ دقفیقه زمان خواهد برد."
+
+#~ msgid "No time right now? If you don't want to go through the wizard, you can skip and return to the WordPress dashboard. Come back anytime if you change your mind!"
+#~ msgstr "الان نه؟ اگر مایل به اجرای راه‌انداز نیستید، می‌توانید از این مرحله رد شوید و به پیشخوان وردپرس برگردید.هر زمانی که نظرات عوض شد می‌توانید برگردید!"
+
+#~ msgid "Default Plugins"
+#~ msgstr "افزونه‌های پیش‌فرض"
+
+#~ msgid "This will install the default plugins included with Flatsome. You can add and remove plugins later on from within WordPress."
+#~ msgstr "این افزونه‌های پیش‌فرض همراه فلت‌سام را نصب خواهد کرد. بعدا می‌توانید این افزونه‌ها را حذف یا اضافه کنید."
+
+#~ msgid "Good news! All plugins are already installed and up to date. Please continue."
+#~ msgstr "خبرهای خوب! همه افزونه‌ها نصب و بروز هستند. لطفا ادامه دهید."
+
+#~ msgid "Continue"
+#~ msgstr "ادامه"
+
+#~ msgid "Skip this step"
+#~ msgstr "رد شدن از این مرحله"
+
+#~ msgid "No Slug Found"
+#~ msgstr "نامکی یافت نشد"
+
+#~ msgid "Activating Plugin"
+#~ msgstr "فعال‌سازی افزونه"
+
+#~ msgid "Updating Plugin"
+#~ msgstr "بروزرسانی افزونه"
+
+#~ msgid "Installing Plugin"
+#~ msgstr "نصب افزونه"
+
+#~ msgid "Success"
+#~ msgstr "موفق"
+
+#~ msgid "This will create default %s as seen in the demo."
+#~ msgstr "این %s پیش‌فرض که در دمو دیده می‌شود را ایجاد می‌کند."
+
+#~ msgid "Pending."
+#~ msgstr "در حال انتظار."
+
+#~ msgid "Installing."
+#~ msgstr "نصب."
+
+#~ msgid "Success."
+#~ msgstr "موفق."
+
+#~ msgid "Widgets"
+#~ msgstr "ابزارک‌ها"
+
+#~ msgid "Insert default sidebar widgets as seen in the demo."
+#~ msgstr "وارد کردن ابزارک‌های کناری همان طور که در دمو مشاهده می‌شوند."
+
+#~ msgid "Installing Default Widgets."
+#~ msgstr "نصب ابزارک‌های پیش‌فرض."
+
+#~ msgid "Settings"
+#~ msgstr "تنظیمات"
+
+#~ msgid "Configure default settings."
+#~ msgstr "تنظیم تظنیمات پیش‌فرض."
+
+#~ msgid "Installing Default Settings."
+#~ msgstr "نصب تنظیمات پیش‌فرض."
+
+#~ msgid "Install Demo Content"
+#~ msgstr "نصب محتوای دمو"
+
+#~ msgid "It looks like you already have content installed on this website. If you would like to install the default demo content as well you can select it below. Otherwise just choose the upgrade option to ensure everything is up to date."
+#~ msgstr "به نظر می‌رسد هم اکنون محتوایی بر روی وبسایت خود دارید. اگر مایل هستید محتوای دمو را هم نصب کنید می‌توانید از بخش زیر انتخاب کنید. در غیر این صورت تنها گزینه بروزرسانی را انتخاب کنید تا از بروزبودن همه چیز مطمئن شوید."
+
+#~ msgid "It's time to insert some default content for your new Flatsome website. Choose what you would like inserted below and click Continue. It is recommended to leave everything selected. Once inserted, this content can be managed from the WordPress admin dashboard. "
+#~ msgstr "زمان درون‌ریزی محتوای پیش‌فرض برای وبسایت فلت‌سامی شماست. از بخش زیر انتخاب کنید که مایل به درون‌ریزی چه چیزی هستید و روی ادامه کلیک کنید. توصیه می‌کنیم همه را با هم انتخاب نکنید. پس از درون‌ریزی یکی، این محتوا قابل مدیریت از بخش پیشخوان وردپرس خواهد بود. "
+
+#~ msgid "Item"
+#~ msgstr "آیتم"
+
+#~ msgid "Description"
+#~ msgstr "توضیحات"
+
+#~ msgid "Status"
+#~ msgstr "وضعیت"
+
+#~ msgid "No content Found"
+#~ msgstr "محتوایی یافت نشد"
+
+#~ msgid "Error"
+#~ msgstr "خطا"
+
+#~ msgid "Remote server did not respond"
+#~ msgstr "سرور پاسخی ارائه نکرد"
+
+#~ msgid "Remote file is incorrect size"
+#~ msgstr "حجم فایل اشتباه است"
+
+#~ msgid "Zero size file downloaded"
+#~ msgstr "فایلی با حجم صفر دانلود شد"
+
+#~ msgid "Remote file is too large, limit is %s"
+#~ msgstr "حجم فایل خیلی زیاد است، محدودیت برابر %s است"
+
+#~ msgid "Logo &amp; Design"
+#~ msgstr "لوگو &amp; طراحی"
+
+#~ msgid "Upload Logo"
+#~ msgstr "بارگزاری لوگو"
+
+#~ msgid "Upload New Logo"
+#~ msgstr "بارگزاری لوگو جدید"
+
+#~ msgid "Select Preset"
+#~ msgstr "انتخاب پیش‌ساخته"
+
+#~ msgid "Register Theme"
+#~ msgstr "فعال‌سازی قالب"
+
+#~ msgid "Your token <strong> is valid</strong>. Thank you! Enjoy Flatsome and one-click updates."
+#~ msgstr "<strong>کد خرید شما معتبر است</strong>. متشکریم! از قالب فلت‌سام و بروزرسانی خودکار لذت ببرید."
+
+#~ msgid "Create and Use Child Theme"
+#~ msgstr "ایجاد و استفاده از قالب چایلد"
+
+#~ msgid "Agree and Continue"
+#~ msgstr "موافقت و ادامه"
+
+#~ msgid "Your Website is Ready!"
+#~ msgstr "وبسایت شما آماده است!"
+
+#~ msgid "Next Steps"
+#~ msgstr "گام‌های بعدی"
+
+#~ msgid "Setup WooCommerce (optional)"
+#~ msgstr "راه‌اندازی ووکامرس (اختیاری)"
+
+#~ msgid "Join Facebook Group"
+#~ msgstr "به گروه فیسبوک بپیوندید"
+
+#~ msgid "View your new website!"
+#~ msgstr "وبسایت جدید خود را مشاهده کنید!"
+
+#~ msgid "More Resources"
+#~ msgstr "منابع بیشتر"
+
+#~ msgid "Theme Documentation"
+#~ msgstr "مستندات قالب"
+
+#~ msgid "Learn how to use WooCommerce"
+#~ msgstr "استفاده از ووکامرس را یاد بگیرید"
+
+#~ msgid "Learn how to use WordPress"
+#~ msgstr "یاد بگیرید چگونه از وردپرس استفاده کنید"
+
+#~ msgid "Leave an Item Rating"
+#~ msgstr "امتیاز بدهید"
+
+#~ msgid "Blog Archive"
+#~ msgstr "بایگانی بلاگ"
+
+#~ msgid "Set custom layouts for archive pages like Categories, Search etc."
+#~ msgstr "تعیین طرح‌بندی صفحات بایگانی مثل دسته‌بندی‌ها، جستجو و غیره."
+
+#~ msgid "Enable Blog Archive Title"
+#~ msgstr "فعال‌سازی عنوان بایگانی بلاگ"
+
+#~ msgid "Posts Layout"
+#~ msgstr "طرح‌بندی نوشته‌ها"
+
+#~ msgid "Blog Featured Posts"
+#~ msgstr "نوشته شاخص بلاگ"
+
+#~ msgid "Featured Posts"
+#~ msgstr "نوشته‌های شاخص"
+
+#~ msgid "Show Featured posts in a slider above content. You need to make a post \"Sticky\" to show it here."
+#~ msgstr "نمایش نوشته‌های شاخص داخل یک اسلایدر در بالای محتوا. برای نمایش یک نوشته در این بخش باید آن را \"سنجاق\" کنید."
+
+#~ msgid "Hide Featured Posts from Default Blog feed."
+#~ msgstr "مخفی کردن نوشته‌های شاخص از فید پیش‌فرض بلاگ."
+
+#~ msgid "Featured Posts Height"
+#~ msgstr "ارتفاع نوشته‌های شاخص"
+
+#~ msgid "Image Size"
+#~ msgstr "اندازه تصویر"
+
+#~ msgid "Blog Global"
+#~ msgstr "کلی بلاگ"
+
+#~ msgid "Show Date Box"
+#~ msgstr "نمایش جعبه تاریخ"
+
+#~ msgid "Date Box Style"
+#~ msgstr "استایل باکس تاریخ"
+
+#~ msgid "Blog Excerpt Suffix"
+#~ msgstr "پسوند چکیده وبلاگ"
+
+#~ msgid "Choose custom post excerpt suffix. Default [...]"
+#~ msgstr "پسوند دلخواهی برای چکیده نوشته‌ها انتخاب کنید. پیش‌فرض [...]"
+
+#~ msgid "Blog Layout"
+#~ msgstr "طرح‌بندی بلاگ"
+
+#~ msgid "Blog Homepage Header"
+#~ msgstr "سربرگ صفحه اصلی بلاگ"
+
+#~ msgid "Enter HTML for blog header here. Will be placed above content and sidebar. Shortcodes are allowed. F.ex [block id=\"blog-header\"]"
+#~ msgstr "کدهای اچ تی ام الی که در این قسمت وارد کنید در بالای محتوا و ستون کناری نمایش داده خواهند شد. استفاده از شورت‌کد‌ها مجاز است. مثلا: [block id=\"blog-header\"]"
+
+#~ msgid "Transparent Header"
+#~ msgstr "سربرگ شفاف"
+
+#~ msgid "Blog Sidebar"
+#~ msgstr "ستون کناری بلاگ"
+
+#~ msgid "Enable Sidebar Divider"
+#~ msgstr "فعال‌سازی جداساز ستون کناری"
+
+#~ msgid "Sticky sidebar"
+#~ msgstr "ستون کناری چسبان"
+
+#~ msgid "Posts Layout Type"
+#~ msgstr "نوع طرح‌بندی نوشته‌ها"
+
+#~ msgid "Row"
+#~ msgstr "ردیف"
+
+#~ msgid "Masonry"
+#~ msgstr "Masonry"
+
+#~ msgid "Show Excerpts Only"
+#~ msgstr "فقط نمایش چکیده"
+
+#~ msgid "Show Excerpts only of the Blog posts. You can manually add a Read More link by adding a More Tag to the Post Content."
+#~ msgstr "فقط نمایش چکیده نوشته‌های بلاگ. می‌توانید با استفاده از تگ More داخل محتوای نوشته خود، پیوند \"نمایش بیشتر\" را اضافه کنید."
+
+#~ msgid "Blog Background Color"
+#~ msgstr "رنگ پس‌زمینه بلاگ"
+
+#~ msgid "Depth"
+#~ msgstr "عمق"
+
+#~ msgid "Depth :hover"
+#~ msgstr "عمق: هاور"
+
+#~ msgid "Posts Title Style"
+#~ msgstr "استایل عنوان نوشته"
+
+#~ msgid "Posts Title Align"
+#~ msgstr "تراز عنوان نوشته"
+
+#~ msgid "Blog Single Post"
+#~ msgstr "نوشته تکی بلاگ"
+
+#~ msgid "Blog Post Single Layout"
+#~ msgstr "طرح‌بندی نوشته تکی بلاگ"
+
+#~ msgid "Title Layout"
+#~ msgstr "طرح‌بندی عنوان"
+
+#~ msgid "Enable Header Meta"
+#~ msgstr "فعال‌سازی متاهای سربرگ"
+
+#~ msgid "Enable Featured Image"
+#~ msgstr "فعال‌سازی تصویر شاخص"
+
+#~ msgid "Enable Share Icons"
+#~ msgstr "فعال‌سازی آیکن‌های اشتراک گذاری"
+
+#~ msgid "Enable Footer Meta"
+#~ msgstr "فعال‌سازی متاهای پانوشت"
+
+#~ msgid "Enable Blog Author Box"
+#~ msgstr "فعال‌سازی باکس نویسنده نوشته"
+
+#~ msgid "Enable Next/Prev Navigation"
+#~ msgstr "فعال‌سازی دکمه‌های قبلی\\بعدی"
+
+#~ msgid "HTML after blog posts"
+#~ msgstr "کدهای HTML بعد از نوشته بلاگ"
+
+#~ msgid "Blog"
+#~ msgstr "بلاگ"
+
+#~ msgid "Footer"
+#~ msgstr "پانوشت"
+
+#~ msgid "Custom Footer Block"
+#~ msgstr "بلاک دلخواه فوتر"
+
+#~ msgid "You can replace the Footer with a Custom Block that you can edit in the Page Builder."
+#~ msgstr "می‌توانید پانوشت را با بلاک دلخواهی که از صفحه ساز قابل ویرایش است جایگزین کنید."
+
+#~ msgid "Enable Footer 1"
+#~ msgstr "فعال‌سازی پانوشت ۱"
+
+#~ msgid "Columns"
+#~ msgstr "ستون‌ها"
+
+#~ msgid "6"
+#~ msgstr "۶"
+
+#~ msgid "4"
+#~ msgstr "۴"
+
+#~ msgid "3"
+#~ msgstr "۳"
+
+#~ msgid "2"
+#~ msgstr "۲"
+
+#~ msgid "1"
+#~ msgstr "۱"
+
+#~ msgid "Text color"
+#~ msgstr "رنگ متن"
+
+#~ msgid "Background Image"
+#~ msgstr "تصویر زمینه"
+
+#~ msgid "Enable Footer 2"
+#~ msgstr "فعال‌سازی پانوشت ۲"
+
+#~ msgid "Align"
+#~ msgstr "تراز"
+
+#~ msgid "Left/Right"
+#~ msgstr "راست\\چپ"
+
+#~ msgid "Center"
+#~ msgstr "وسط"
+
+#~ msgid "Bottom Text - Primary"
+#~ msgstr "متن پایین - اولی"
+
+#~ msgid "Add Any HTML or Shortcode here..."
+#~ msgstr "هر کد HTML یا شورت‌کدی که می‌خواهید اضافه کنید ..."
+
+#~ msgid "Bottom Text - Secondary"
+#~ msgstr "متن پایین - دومی"
+
+#~ msgid "Enable Back To Top Button"
+#~ msgstr "فعال‌سازی دکمه بازگشت به بالا"
+
+#~ msgid "Button Shape"
+#~ msgstr "شکل دکمه"
+
+#~ msgid "Position"
+#~ msgstr "موقعیت"
+
+#~ msgid "Left"
+#~ msgstr "چپ"
+
+#~ msgid "Right"
+#~ msgstr "راست"
+
+#~ msgid "Show on Mobile"
+#~ msgstr "نمایش در موبایل"
+
+#~ msgid "HTML before footer"
+#~ msgstr "کد‌های HTML قبل از پانوشت"
+
+#~ msgid "HTML after footer"
+#~ msgstr "کد‌های HTML بعد از پانوشت"
+
+#~ msgid "GDPR"
+#~ msgstr "GDPR"
+
+#~ msgid "Enable cookie notice"
+#~ msgstr "فعال‌سازی هشدار کوکی"
+
+#~ msgid "Custom cookie text"
+#~ msgstr "متن دلخواه هشدار کوکی"
+
+#~ msgid "Add any HTML or shortcode here..."
+#~ msgstr "هر کد HTML یا شورت‌کدی که می‌خواهید اضافه کنید ..."
+
+#~ msgid "Privacy policy page"
+#~ msgstr "برگه سیاست حفظ حریم خصوصی"
+
+#~ msgid "Show a button linked to the cookie policy page."
+#~ msgstr "نمایش یک دکمه لینک شده به برگه سیاست حفظ حریم خصوصی."
+
+#~ msgid "Button style"
+#~ msgstr "استایل دکمه"
+
+#~ msgid "Background color"
+#~ msgstr "رنگ پس‌زمینه"
+
+#~ msgid "Version"
+#~ msgstr "نسخه"
+
+#~ msgid "Increase the version to reopen the notice to visitors that have accepted before, after making changes to it."
+#~ msgstr "برای نمایش دوباره پیام هشدار به بازدیدکنندگان سایت پس از انجام تغییرات در آن، نسخه را افزایش دهید."
+
+#~ msgid "This site uses cookies to improve your browse experience. By browsing this website, you agree to our use of cookies."
+#~ msgstr "این وب‌سایت از کوکی برای بهبود تجربه شما استفاده می‌کند. با مشاهده این وب‌سایت، شما با استفاده ما از کوکی‌ها موافقت می‌کنید."
+
+#~ msgid "Reset Options"
+#~ msgstr "بازگردانی تنظیمات"
+
+#~ msgid "Click the reset button to reset all options to default values."
+#~ msgstr "با کلیک بر روی دکمه بازگردانی تمام تنظیمات به مقدار اولیه خود بازخواهند گشت."
+
+#~ msgid "Account"
+#~ msgstr "حساب کاربری"
+
+#~ msgid "Icon Style"
+#~ msgstr "استایل آیکن"
+
+#~ msgid "Show label"
+#~ msgstr "نمایش برچسب"
+
+#~ msgid "Display label for logged in users."
+#~ msgstr "نمایش برچسب برای کاربران وارد شده."
+
+#~ msgid "Use username as label"
+#~ msgstr "استفاده از نام کاربری به عنوان برچسب"
+
+#~ msgid "Display username instead of fixed label for logged in users."
+#~ msgstr "نمایش نام کاربری به جای برچسب ثابت برای کاربران وارد شده."
+
+#~ msgid "Show \"Register\" label"
+#~ msgstr "نمایش برچسب \"عضویت\""
+
+#~ msgid "Display \"Register\" for non logged in users."
+#~ msgstr "نمایش \"عضویت\" برای کاربران وارد نشده."
+
+#~ msgid "Header Bottom"
+#~ msgstr "پایین سربرگ"
+
+#~ msgid "Height"
+#~ msgstr "ارتفاع"
+
+#~ msgid "Nav Style"
+#~ msgstr "استایل لینک‌ها"
+
+#~ msgid "Nav Height"
+#~ msgstr "ارتفاع لینک‌ها"
+
+#~ msgid "Nav Size"
+#~ msgstr "اندازه لینک‌ها"
+
+#~ msgid "Nav Spacing"
+#~ msgstr "فاصله لینک‌ها"
+
+#~ msgid "Uppercase"
+#~ msgstr "حروف بزرگ"
+
+#~ msgid "Add overlay on hover"
+#~ msgstr "افزودن overlay هنگام hover"
+
+#~ msgid "Nav Base Color"
+#~ msgstr "رنگ پایه لینک‌ها"
+
+#~ msgid "Nav Color"
+#~ msgstr "رنگ لینک‌ها"
+
+#~ msgid "Nav Color :hover"
+#~ msgstr "رنگ لینک‌ها: هاور"
+
+#~ msgid "Buttons"
+#~ msgstr "دکمه‌ها"
+
+#~ msgid "Text"
+#~ msgstr "متن"
+
+#~ msgid "Link"
+#~ msgstr "لینک"
+
+#~ msgid "Target"
+#~ msgstr "مقصد"
+
+#~ msgid "Same window"
+#~ msgstr "همان پنجره"
+
+#~ msgid "New window"
+#~ msgstr "پنجره جدید"
+
+#~ msgid "Rel"
+#~ msgstr "Rel"
+
+#~ msgid "Radius"
+#~ msgstr "شعاع (گرد بودن لبه‌ها)"
+
+#~ msgid "Plain"
+#~ msgstr "ساده"
+
+#~ msgid "Primary"
+#~ msgstr "اولی"
+
+#~ msgid "Secondary"
+#~ msgstr "دومی"
+
+#~ msgid "Alert"
+#~ msgstr "هشدار"
+
+#~ msgid "Style"
+#~ msgstr "استایل"
+
+#~ msgid "Size"
+#~ msgstr "اندازه"
+
+#~ msgid "Depth:hover"
+#~ msgstr "عمق: هاور"
+
+#~ msgid "Cart"
+#~ msgstr "سبد خرید"
+
+#~ msgid "Cart Style"
+#~ msgstr "استایل سبد خرید"
+
+#~ msgid "Dropdown"
+#~ msgstr "کرکره‌ای"
+
+#~ msgid "Off-Canvas Sidebar"
+#~ msgstr "ستون‌کناری خارج از بوم"
+
+#~ msgid "Link Only"
+#~ msgstr "فقط لینک"
+
+#~ msgid "Cart Icon Style"
+#~ msgstr "استایل آیکن سبد خرید"
+
+#~ msgid "Cart Icon"
+#~ msgstr "آیکن سبد خرید"
+
+#~ msgid "Custom Cart Icon"
+#~ msgstr "آیکن سبد خرید دلخواه"
+
+#~ msgid "Show cart totals"
+#~ msgstr "نمایش مجموع سبد خرید"
+
+#~ msgid "Show cart title"
+#~ msgstr "نمایش عنوان سبد خرید"
+
+#~ msgid "Custom Content after Cart"
+#~ msgstr "محتوای دلخواه بعد از سبد خرید"
+
+#~ msgid "Contact"
+#~ msgstr "ارتباط با ما"
+
+#~ msgid "Icons Left"
+#~ msgstr "آیکن‌های چپ"
+
+#~ msgid "Icons Only"
+#~ msgstr "فقط آیکن"
+
+#~ msgid "Icon Size"
+#~ msgstr "اندازه آیکن"
+
+#~ msgid "Phone"
+#~ msgstr "تلفن"
+
+#~ msgid "E-mail"
+#~ msgstr "ایمیل"
+
+#~ msgid "E-mail label"
+#~ msgstr "برچسب ایمیل"
+
+#~ msgid "Location"
+#~ msgstr "موقعیت"
+
+#~ msgid "Type in the location of your place or shop. It will open in a new window on Google Maps"
+#~ msgstr "موقعیت فروشگاه خود را وارد کنید. در تب جدید روی گوگل مپ باز خواهد شد"
+
+#~ msgid "Location label"
+#~ msgstr "برچسب موقعیت"
+
+#~ msgid "Open Hours"
+#~ msgstr "ساعت‌های کاری"
+
+#~ msgid "Open Hours - Details"
+#~ msgstr "توضیحات ساعت‌های کاری"
+
+#~ msgid "HTML"
+#~ msgstr "HTML"
+
+#~ msgid "Header Block 1"
+#~ msgstr "بلاک ۱ سربرگ"
+
+#~ msgid "Blocks can be edited in the page builder. Select a block, go to a page and open in the the Page Builder."
+#~ msgstr "بلاک‌ها در صفحه‌ساز قابل ویرایش هستند. بلاکی را انتخاب کنید، به برگه‌ای بروید و آن را در صفحه‌ساز باز کنید."
+
+#~ msgid "Header Block 2"
+#~ msgstr "بلاک ۲ سربرگ"
+
+#~ msgid "HTML 1"
+#~ msgstr "HTML 1"
+
+#~ msgid "HTML 2"
+#~ msgstr "HTML 2"
+
+#~ msgid "HTML 3"
+#~ msgstr "HTML 3"
+
+#~ msgid "HMTL 4"
+#~ msgstr "HMTL 4"
+
+#~ msgid "HTML 5"
+#~ msgstr "HTML 5"
+
+#~ msgid "Dropdown Style"
+#~ msgstr "استایل منو کرکره‌ای"
+
+#~ msgid "Add border"
+#~ msgstr "افزودن حاشیه"
+
+#~ msgid "Border Color"
+#~ msgstr "رنگ بوردر"
+
+#~ msgid "Add shadow"
+#~ msgstr "افزودن سایه"
+
+#~ msgid "Dropdown Content Size (%)"
+#~ msgstr "اندازه محتوای منو کرکره‌ای (٪)"
+
+#~ msgid "Dropdown radius"
+#~ msgstr "گردی لبه منوی کرکره‌ای"
+
+#~ msgid "0px"
+#~ msgstr "0px"
+
+#~ msgid "3px"
+#~ msgstr "3px"
+
+#~ msgid "5px"
+#~ msgstr "5px"
+
+#~ msgid "10px"
+#~ msgstr "10px"
+
+#~ msgid "15px"
+#~ msgstr "15px"
+
+#~ msgid "Add arrow"
+#~ msgstr "افزودن فلش"
+
+#~ msgid "Shows a focusing arrow towards the active menu item."
+#~ msgstr "یک فلش فوکوش شونده رو به جلو کنار آیتم منوی فعال قرار بده."
+
+#~ msgid "Link Style"
+#~ msgstr "استایل لینک"
+
+#~ msgid "Text Color"
+#~ msgstr "رنگ متن"
+
+#~ msgid "Text Style"
+#~ msgstr "استایل متن"
+
+#~ msgid "Simple"
+#~ msgstr "ساده"
+
+#~ msgid "UPPERCASE"
+#~ msgstr "حروف بزرگ"
+
+#~ msgid "Elements"
+#~ msgstr "المان‌ها"
+
+#~ msgid "Flatsome Version"
+#~ msgstr "نسخه فلت‌سام"
+
+#~ msgid "← Left Elements"
+#~ msgstr "المان‌های چپ ←"
+
+#~ msgid "Center Elements"
+#~ msgstr "المان‌های وسط"
+
+#~ msgid "Right Elements →"
+#~ msgstr "→ المان‌های راست"
+
+#~ msgid "Left Elements"
+#~ msgstr "المان‌های چپ"
+
+#~ msgid "Right Elements"
+#~ msgstr "المان‌های راست"
+
+#~ msgid "Mobile Top"
+#~ msgstr "بالای موبایل"
+
+#~ msgid "Logo & Site Identity"
+#~ msgstr "لوگو و هویت سایت"
+
+#~ msgid "Display below Logo"
+#~ msgstr "نمایش زیر لوگو"
+
+#~ msgid "Logo position"
+#~ msgstr "محل لوگو"
+
+#~ msgid "Logo image"
+#~ msgstr "تصویر لوگو"
+
+#~ msgid "Logo image - Light Version"
+#~ msgstr "تصویر لوگو - نسخه روشن"
+
+#~ msgid "Upload an alternative light logo that will be used on Dark and Transparent Header templates"
+#~ msgstr "یک لوگوی روشن برای استفاده از قالب‌های تیره و شفاف بارگزاری کنید"
+
+#~ msgid "Logo container width"
+#~ msgstr "عرض (Width) نگه‌دارنده لوگو"
+
+#~ msgid "Logo max width (px)"
+#~ msgstr "حداکثر عرض (Width)  لوگو"
+
+#~ msgid "Set the logo max width in pixels. Leave it blank to make it auto fit inside the logo container."
+#~ msgstr "حداکثر عرض لوگو را به پیکسل وارد کنید. برای متناسب کردن داخل نگه‌دارنده لوگو این فیلد را خالی بگذارید."
+
+#~ msgid "Logo Padding"
+#~ msgstr "فاصله لوگو (Padding)"
+
+#~ msgid "Header Main"
+#~ msgstr "سربرگ اصلی"
+
+#~ msgid "Header Width"
+#~ msgstr "عرض (Width) سربرگ"
+
+#~ msgid "Image is added to .header container. Try set a header background with opacity if you can not see the background image. (Drag the alpha slider in the background selector)"
+#~ msgstr "تصویر داخل دیوی با کلاس .header قرار دارد. اگر تصویر زمینه را نمی‌توانید ببینید قرار دادن پس‌زمینه‌ای با opacity را امتحان کنید. (اسلایدر آلفا از بخش انتخاب پس‌زمینه را جا به جا کنید)"
+
+#~ msgid "Background Repeat"
+#~ msgstr "تکرار پس‌زمینه"
+
+#~ msgid "Add Shadow"
+#~ msgstr "افزودن سایه"
+
+#~ msgid "Add Divider"
+#~ msgstr "افزودن جداساز"
+
+#~ msgid "HTML after header"
+#~ msgstr "کد‌های HTML بعد از سربرگ"
+
+#~ msgid "Navigation Style"
+#~ msgstr "استایل لینک‌ها"
+
+#~ msgid "Nav Push"
+#~ msgstr "فاصله از بالا"
+
+#~ msgid "Icons Color"
+#~ msgstr "رنگ آیکن‌ها"
+
+#~ msgid "Icons Color :hover"
+#~ msgstr "رنگ آیکن‌ها:هاور"
+
+#~ msgid "Height - Transparent Header"
+#~ msgstr "ارتفاع - سربرگ شفاف"
+
+#~ msgid "Transparent Header Background Color"
+#~ msgstr "رنگ پس‌زمینه سربرگ شفاف"
+
+#~ msgid "Add Shade"
+#~ msgstr "افزودن سایه"
+
+#~ msgid "Header Mobile Menu / Overlay"
+#~ msgstr "منوی موبایل \\ روکشی سربرگ"
+
+#~ msgid "Mobile Header Height"
+#~ msgstr "ارتفاع سربرگ موبایل"
+
+#~ msgid "Menu Icon Style"
+#~ msgstr "استایل آیکن منو"
+
+#~ msgid "Show Menu title"
+#~ msgstr "نمایش عنوان منو"
+
+#~ msgid "Menu Overlay"
+#~ msgstr "فهرست روکشی"
+
+#~ msgid "Menu item behavior"
+#~ msgstr "رفتار آیتم فهرست"
+
+#~ msgid "Click behavior for menu items with a submenu"
+#~ msgstr "رفتار منوهای همراه با زیرمنو هنگام کلیک کردن"
+
+#~ msgid "Open link"
+#~ msgstr "باز شدن لینک"
+
+#~ msgid "Toggle submenu"
+#~ msgstr "تغییر وضعیت زیرمنو"
+
+#~ msgid "Submenu effect"
+#~ msgstr "اِفِکت زیرمنو"
+
+#~ msgid "Accordion"
+#~ msgstr "آکاردئون"
+
+#~ msgid "Slide"
+#~ msgstr "اسلاید"
+
+#~ msgid "Submenu levels"
+#~ msgstr "سطوح زیرمنو"
+
+#~ msgid "1 level"
+#~ msgstr "۱ سطح"
+
+#~ msgid "2 levels"
+#~ msgstr "۲ سطح"
+
+#~ msgid "Menu Elements"
+#~ msgstr "عناصر فهرست"
+
+#~ msgid "Overlay Color"
+#~ msgstr "رنگ ستون کناری"
+
+#~ msgid "Newsletter"
+#~ msgstr "خبرنامه"
+
+#~ msgid "Label"
+#~ msgstr "برچسب"
+
+#~ msgid "Newsletter Block"
+#~ msgstr "بلاک خبرنامه"
+
+#~ msgid "Replace newsletter pop-up content with a custom Block that can be edited in UX Builder."
+#~ msgstr "محتوای پاپ-آپ خبرنامه را با بلاکی که از صفحه‌سازی قابل ویرایش است جایگزین کنید."
+
+#~ msgid "Sub Title"
+#~ msgstr "زیر عنوان"
+
+#~ msgid "Form Shortcode"
+#~ msgstr "شورت‌کد فرم"
+
+#~ msgid "Insert any form shortcode here."
+#~ msgstr "هر شورت‌کدی که می‌خواهید را اینجا وارد کنید."
+
+#~ msgid "Auto Open"
+#~ msgstr "باز شدن خودکار"
+
+#~ msgid "Auto Timer"
+#~ msgstr "زمان‌سنج خودکار"
+
+#~ msgid "In milliseconds (1000ms = 1sec)."
+#~ msgstr "به میلی‌ثانیه (هر 1000 میلی‌ثانیه = 1 ثانیه)."
+
+#~ msgid "Auto Show"
+#~ msgstr "نمایش خودکار"
+
+#~ msgid "Always"
+#~ msgstr "همیشه"
+
+#~ msgid "Once"
+#~ msgstr "یکبار"
+
+#~ msgid "Increase the version to reopen a \"show once\" configured newsletter popup to visitors after making changes to it."
+#~ msgstr "برای نمایش دوباره پاپ‌آپ خبرنامه به بازدیدکنندگان سایت پس از انجام تغییرات در آن، نسخه را افزایش دهید."
+
+#~ msgid "Presets"
+#~ msgstr "پیش ساخته‌ها"
+
+#~ msgid "You can quick change between header presets here. This works best on a fresh install or resetted options. You can safely try new layouts without loosing changes. Just remember to NOT save if you do not want to use the selected preset."
+#~ msgstr "می‌توانید به سرعت بین سربرگ‌های پیش‌ساخته تغییر کنید. این بر روی تنظیمات اولیه یا نصب تازه بهتر کار خواهد کرد. می‌توانید طرح‌بندی‌های جدید را بدون از دست دادن تغییرات امتحان کنید. فقط دقت کنید که اگر مایل به استفاده از پیش‌ساخته‌های انتخاب شده نیستید دکمه ذخیره را نزنید."
+
+#~ msgid "Preset"
+#~ msgstr "پیش‌ساخته"
+
+#~ msgid "Search"
+#~ msgstr "جستجو"
+
+#~ msgid "Search Icon Style"
+#~ msgstr "استایل آیکن جستجو"
+
+#~ msgid "Search Icon Type"
+#~ msgstr "نوع آیکن جستجو"
+
+#~ msgid "Lightbox"
+#~ msgstr "لایت‌باکس"
+
+#~ msgid "Search Form Style"
+#~ msgstr "استایل فرم جستجو"
+
+#~ msgid "Normal"
+#~ msgstr "معمولی"
+
+#~ msgid "Flat"
+#~ msgstr "تخت"
+
+#~ msgid "Placeholder text"
+#~ msgstr "متن Placeholder"
+
+#~ msgid "Search Categories"
+#~ msgstr "دسته‌های جستجو"
+
+#~ msgid "Search categories"
+#~ msgstr "دسته‌های جستجو"
+
+#~ msgid "Header Search form width"
+#~ msgstr "عرض (Width) فرم جستجوی سربرگ"
+
+#~ msgid "Sticky Header"
+#~ msgstr "سربرگ چسبان"
+
+#~ msgid "Header Height on Sticky"
+#~ msgstr "ارتفاع سربرگ چسبان"
+
+#~ msgid "Sticky Logo Padding"
+#~ msgstr "فاصله لوگو (Padding) چسبان"
+
+#~ msgid "Nav Height on Sticky"
+#~ msgstr "ارتفاع لینک‌های چسبان"
+
+#~ msgid "Top Bar - Sticky on Scroll"
+#~ msgstr "نوار بالا - چسبان هنگام اسکرول"
+
+#~ msgid "Header Main - Sticky on Scroll"
+#~ msgstr "سربرگ اصلی - چسبان هنگام اسکرول"
+
+#~ msgid "Header Bottom - Sticky on Scroll"
+#~ msgstr "سربرگ پایین - چسبان هنگام اسکرول"
+
+#~ msgid "Sticky Style"
+#~ msgstr "استایل چسبان"
+
+#~ msgid "Jump Down"
+#~ msgstr "پرش به پایین"
+
+#~ msgid "Fade"
+#~ msgstr "محو شدن"
+
+#~ msgid "Shrink"
+#~ msgstr "کوچک شدن"
+
+#~ msgid "Hide sticky when scrolling down"
+#~ msgstr "مخفی کردن چسبان هنگام اسکرول به پایین"
+
+#~ msgid "Custom Sticky Logo"
+#~ msgstr "لوگوی دلخواه چسبان"
+
+#~ msgid "Top Bar"
+#~ msgstr "نوار بالا"
+
+#~ msgid "Enable Top Bar"
+#~ msgstr "فعال‌سازی نوار بالا"
+
+#~ msgid "Wishlist"
+#~ msgstr "علاقه‌مندی‌ها"
+
+#~ msgid "Wishlist Icon"
+#~ msgstr "آیکن علاقه‌مندی‌ها"
+
+#~ msgid "Wishlist Icon Style"
+#~ msgstr "استایل آیکن علاقه‌مندی‌ها"
+
+#~ msgid "Show Wishlist Title"
+#~ msgstr "نمایش عنوان علاقه‌مندی‌ها"
+
+#~ msgid "Custom Title"
+#~ msgstr "عنوان دلخواه"
+
+#~ msgid "Header"
+#~ msgstr "سربرگ"
+
+#~ msgid "Change Theme Header Options here."
+#~ msgstr "تنظمیات سربرگ پوسته را از اینجا تغییر دهید."
+
+#~ msgid "☰ Nav Icon"
+#~ msgstr "☰  آیکن منو"
+
+#~ msgid "Main Menu"
+#~ msgstr "منوی اصلی"
+
+#~ msgid "Top Bar Menu"
+#~ msgstr "منو نوار بالا"
+
+#~ msgid "Search Icon"
+#~ msgstr "آیکن جستجو"
+
+#~ msgid "Search Form"
+#~ msgstr "فرم جستجو"
+
+#~ msgid "Social Icons"
+#~ msgstr "آیکن‌های شبکه‌های اجتماعی"
+
+#~ msgid "Button 1"
+#~ msgstr "دکمه ۱"
+
+#~ msgid "Button 2"
+#~ msgstr "دکمه ۲"
+
+#~ msgid "Checkout Button"
+#~ msgstr "دکمه تسویه حساب"
+
+#~ msgid "Languages"
+#~ msgstr "زبان‌ها"
+
+#~ msgid "|"
+#~ msgstr "|"
+
+#~ msgid "Block 1"
+#~ msgstr "بلاک ۱"
+
+#~ msgid "Block 2"
+#~ msgstr "بلاک ۲"
+
+#~ msgid "HTML 4"
+#~ msgstr "HMTL 4"
+
+#~ msgid "Show for All"
+#~ msgstr "نمایش برای همه"
+
+#~ msgid "Hide For Mobile"
+#~ msgstr "مخفی کردن در موبایل"
+
+#~ msgid "Hide For Tablet"
+#~ msgstr "مخفی کردن در تبلت"
+
+#~ msgid "Show For Mobile"
+#~ msgstr "نمایش در موبایل"
+
+#~ msgid "Show For Tablet"
+#~ msgstr "نمایش در تبلت"
+
+#~ msgid "Show For Desktop"
+#~ msgstr "نمایش در دسکتاپ"
+
+#~ msgid "XX Large"
+#~ msgstr "XX Large"
+
+#~ msgid "X Large"
+#~ msgstr "X Large"
+
+#~ msgid "Larger"
+#~ msgstr "بزرگتر"
+
+#~ msgid "Large"
+#~ msgstr "بزرگ"
+
+#~ msgid "Medium"
+#~ msgstr "متوسط"
+
+#~ msgid "Small"
+#~ msgstr "کوچک"
+
+#~ msgid "Smaller"
+#~ msgstr "خیلی کوچک"
+
+#~ msgid "X Small"
+#~ msgstr "خیلی خیلی کوچک"
+
+#~ msgid "Default"
+#~ msgstr "پیش‌فرض"
+
+#~ msgid "Outline"
+#~ msgstr "خط خارجی (Outline)"
+
+#~ msgid "Underline"
+#~ msgstr "زیرخط"
+
+#~ msgid "Shade"
+#~ msgstr "سایه"
+
+#~ msgid "Bevel"
+#~ msgstr "مورب"
+
+#~ msgid "Gloss"
+#~ msgstr "براق"
+
+#~ msgid "XS"
+#~ msgstr "XS"
+
+#~ msgid "S"
+#~ msgstr "S"
+
+#~ msgid "M"
+#~ msgstr "M"
+
+#~ msgid "L"
+#~ msgstr "L"
+
+#~ msgid "XL"
+#~ msgstr "XL"
+
+#~ msgid "Layout"
+#~ msgstr "طرح‌بندی"
+
+#~ msgid "Layout Mode"
+#~ msgstr "حالت طرح‌بندی"
+
+#~ msgid "Select Full width, boxed or framed layout"
+#~ msgstr "انتخاب طرح‌بندی تمام عرض، باکس شده یا فریم"
+
+#~ msgid "Full Width"
+#~ msgstr "تمام عرض"
+
+#~ msgid "Boxed"
+#~ msgstr "باکس شده"
+
+#~ msgid "Framed"
+#~ msgstr "فریم"
+
+#~ msgid "Add Drop Shadow to Content box"
+#~ msgstr "افزودن سایه به باکس محتوا"
+
+#~ msgid "Site width (px)"
+#~ msgstr "عرض سایت (به پیکسل)"
+
+#~ msgid "Full Size"
+#~ msgstr "اندازه اصلی (Full Size)"
+
+#~ msgid "Tiled"
+#~ msgstr "کاشی کاری (Tiled)"
+
+#~ msgid "Container width (px)"
+#~ msgstr "عرض (Width) نگه‌دارنده (پیکسل)"
+
+#~ msgid "Set the default width of content containers. (Header, Rows etc.)"
+#~ msgstr "تعیین عرض پیش‌فرض نگه‌دارنده‌های محتوا. (مثل سربرگ، ردیف‌ها و غیره)"
+
+#~ msgid "Content Color"
+#~ msgstr "رنگ محتوا"
+
+#~ msgid "Light or Dark content text color"
+#~ msgstr "رنگ محتوای تیره یا روشن"
+
+#~ msgid "Content Background"
+#~ msgstr "رنگ پس‌زمینه محتوا"
+
+#~ msgid "Notifications"
+#~ msgstr "اطلاعیه‌ها"
+
+#~ msgid "This site uses cookies to offer you a better browsing experience. By browsing this website, you agree to our use of cookies."
+#~ msgstr "این وب‌سایت از کوکی برای بهبود تجربه شما استفاده می‌کند. با مشاهده این وب‌سایت، شما با استفاده ما از کوکی‌ها موافقت می‌کنید."
+
+#~ msgid "Nav Position"
+#~ msgstr "محل لینک‌ها"
+
+#~ msgid "Search Position"
+#~ msgstr "محل جستجو"
+
+#~ msgid "Pages"
+#~ msgstr "برگه‌ها"
+
+#~ msgid "Change the default page layout for all pages. You can also override some of these options per page in the page editor."
+#~ msgstr "تغییر طرح‌بندی پیش‌فرض برای همه برگه‌ها. همچنین می‌توانید بعضی از این گزینه‌ها را برای هر برگه در ویرایش‌گر آن تغییر دهید."
+
+#~ msgid "Default - Page Template"
+#~ msgstr "قالب برگه پیش‌فرض"
+
+#~ msgid "Container (Default)"
+#~ msgstr "نگه‌دارنده (پیش‌فرض)"
+
+#~ msgid "Container - Center Title"
+#~ msgstr "کانتینتر - عنوان وسط"
+
+#~ msgid "Full-Width"
+#~ msgstr "تمام عرض"
+
+#~ msgid "Full-Width - Header On Scroll"
+#~ msgstr "تمام عرض - سربرگ هنگام اسکرول"
+
+#~ msgid "Full-Width - Parallax Title"
+#~ msgstr "تمام عرض - عنوان پارالاکس"
+
+#~ msgid "Full-Width - Transparent Header"
+#~ msgstr "تمام عرض - سربرگ شفاف"
+
+#~ msgid "Full-Width - Transparent Header Light"
+#~ msgstr "تمام عرض - سربرگ شفاف روشن"
+
+#~ msgid "Sidebar Left"
+#~ msgstr "ستون کناری چپ"
+
+#~ msgid "No Header / No Footer"
+#~ msgstr "بدون هدر \\ بدون فوتر"
+
+#~ msgid "Sidebar Right"
+#~ msgstr "ستون کناری راست"
+
+#~ msgid "Single Page Navigation"
+#~ msgstr "ناوبری تک صفحه‌ای"
+
+#~ msgid "Single Page Navigation - Transparent Header"
+#~ msgstr "ناوبری تک صفحه‌ای - سربرگ شفاف"
+
+#~ msgid "Single Page Navigation - Transparent Header - Light"
+#~ msgstr "ناوبری تک صفحه‌ای - سربرگ شفاف - روشن"
+
+#~ msgid "Vertical Sub Navigation"
+#~ msgstr "زیر ناوبری عمودی"
+
+#~ msgid "Show H1 Page title on the container (default), left sidebar and right sidebar templates."
+#~ msgstr "نمایش H1 عنوان برگه در قالب‌های کانتینتر (پیش‌فرض)، ستون چپ و ستون راست."
+
+#~ msgid "Add excerpt content to top of pages."
+#~ msgstr "افزودن چکیده محتوا به بالای برگه‌ها."
+
+#~ msgid "Custom Portfolio Page"
+#~ msgstr "برگه دلخواه نمونه کارها"
+
+#~ msgid "Single Portfolio Layout"
+#~ msgstr "طرح‌بندی تکی نمونه کار"
+
+#~ msgid "Single Portfolio Title"
+#~ msgstr "عنوان تکی نمونه کار"
+
+#~ msgid "Show share icons"
+#~ msgstr "نمایش آیکن‌های اشتراک‌گذاری"
+
+#~ msgid "Show related items"
+#~ msgstr "نمایش آیتم‌های مرتبط"
+
+#~ msgid "Show Next/Prev navigation"
+#~ msgstr "نمایش دکمه‌های قبلی\\بعدی"
+
+#~ msgid "Portfolio Items Orderby"
+#~ msgstr "مرتب‌سازی آیتم‌های نمونه کار به صورت"
+
+#~ msgid "Portfolio Items Order"
+#~ msgstr "مرتب‌سازی آیتم‌های نمونه کار بر اساس"
+
+#~ msgid "Portfolio Style"
+#~ msgstr "استایل نمونه کارها"
+
+#~ msgid "Image Height"
+#~ msgstr "ارتفاع تصویر"
+
+#~ msgid "Image Radius (%)"
+#~ msgstr "گردی تصویر(%)"
+
+#~ msgid "Item Depth"
+#~ msgstr "عمق آیتم"
+
+#~ msgid "Item Depth :hover"
+#~ msgstr "عمق آیتم: هاور"
+
+#~ msgid "Column Spacing"
+#~ msgstr "فاصله ستون‌ها"
+
+#~ msgid "Items per row - Desktop"
+#~ msgstr "تعداد آیتم‌ها در هر ردیف - دسکتاپ"
+
+#~ msgid "Items per row - Tablet"
+#~ msgstr "تعداد آیتم‌ها در هر ردیف - تبلت"
+
+#~ msgid "Items per row - Mobile"
+#~ msgstr "تعداد آیتم‌ها در هر ردیف - موبایل"
+
+#~ msgid "Archive Portfolio Title"
+#~ msgstr "عنوان بایگانی نمونه کارها"
+
+#~ msgid "Portfolio Header Background"
+#~ msgstr "پس زمینه‌ی سربرگ نمونه کارها"
+
+#~ msgid "Filter Navigation"
+#~ msgstr "منوی فیلتر"
+
+#~ msgid "Filter Nav style"
+#~ msgstr "استایل منوی فیلتر"
+
+#~ msgid "Cart layout"
+#~ msgstr "طرح‌بندی سبد خرید"
+
+#~ msgid "Focused"
+#~ msgstr "متمرکز"
+
+#~ msgid "Auto update on quantity change"
+#~ msgstr "بروزرسانی خودکار هنگام تغییر تعداد"
+
+#~ msgid "Boxed Shipping labels"
+#~ msgstr "برچسب‌های ارسال جعبه‌ای"
+
+#~ msgid "Show shipping estimate destination"
+#~ msgstr "نمایش تخمین مسافت حمل و نقل"
+
+#~ msgid "Steps size"
+#~ msgstr "اندازه گام‌ها"
+
+#~ msgid "Steps letter case"
+#~ msgstr "کوچکی و بزرگی حروف گام‌ها"
+
+#~ msgid "Step numbers"
+#~ msgstr "شماره گام‌ها"
+
+#~ msgid "Cart Sidebar content"
+#~ msgstr "محتوای ستون کناری سبد خرید"
+
+#~ msgid "Enter HTML that will show on bottom of cart sidebar"
+#~ msgstr "کد‌های HTML را برای نمایش در پایین ستون کناری سبد خرید وارد کنید"
+
+#~ msgid "After Cart content"
+#~ msgstr "بعد از محتوای سبد خرید"
+
+#~ msgid "Enter HTML or Shortcodes that will show after cart here."
+#~ msgstr "کدهای HTML‌ یا شورت‌کد را برای نمایش بعد از محتوای سبد خرید اینجا وارد کنید."
+
+#~ msgid "Checkout layout"
+#~ msgstr "طرح‌بندی تسویه حساب"
+
+#~ msgid "Social Login Buttons"
+#~ msgstr "دکمه‌های ورود با شبکه‌های اجتماعی"
+
+#~ msgid "Terms and conditions link style"
+#~ msgstr "استایل پیوند شرایط و قوانین"
+
+#~ msgid "New Tab"
+#~ msgstr "تب جدید"
+
+#~ msgid "Terms and conditions \"Agree\" button"
+#~ msgstr "دکمه شرایط و قوانین"
+
+#~ msgid "Floating field labels"
+#~ msgstr "برچسب‌های فیلد معلق"
+
+#~ msgid "Move E-mail field to first position"
+#~ msgstr "انتقال فیلد ایمیل به اولین فیلد"
+
+#~ msgid "Checkout Sidebar content"
+#~ msgstr "محتوای ستون کناری برگه تسویه حساب"
+
+#~ msgid "Enter HTML that will show on bottom of checkout sidebar"
+#~ msgstr "کد‌های HTML را برای نمایش در پایین ستون کناری تسویه حساب وارد کنید"
+
+#~ msgid "Enable Catalog Mode"
+#~ msgstr "فعال سازی حالت کاتالوگ"
+
+#~ msgid "Enable Catalogue Mode."
+#~ msgstr "فعال سازی حالت کاتالوگ."
+
+#~ msgid "Disable Prices"
+#~ msgstr "غیرفعال سازی قیمت‌ها"
+
+#~ msgid "Header Cart replacement"
+#~ msgstr "جایگزین سربرگ سبد خرید"
+
+#~ msgid "Enter content you want to display instad of Account / Cart. Shortcodes are allowed."
+#~ msgstr "محتوایی که می‌خواهید به جای حساب کاربری \\ سبد خرید نمایش داده شود را وارد کنید. استفاده از شورت‌کدها مجاز است."
+
+#~ msgid "Product page Add to cart replacement."
+#~ msgstr "جایگزین افزودن به سبد خرید در صفحه محصول."
+
+#~ msgid "Product Catalog"
+#~ msgstr "صفحه محصولات"
+
+#~ msgid "Shop Page Header"
+#~ msgstr "سربرگ صفحه اصلی فروشگاه"
+
+#~ msgid "Enter HTML that should be placed on top of main shop page. Shortcodes are allowed. This will replace Shop Homepage Header"
+#~ msgstr "کدهای اچ تی ام الی که می‌خواهید در بالای صفحه اصلی فروشگاه نمایش داده شوند را وارد کنید. استفاده از شورت‌کدها مجاز است. این جایگزین سربرگ صفحه اصلی فروشگاه خواهد شد"
+
+#~ msgid "Shop Page Content"
+#~ msgstr "محتوای صفحه اصلی فروشگاه"
+
+#~ msgid "Enter HTML/Shortcodes that should replace Shop Homepage content."
+#~ msgstr "اچ تی ام ال \\ شورت‌کدی که جایگزین محتوای صفحه اصلی فروشگاه می‌شود را اینجا وارد کنید."
+
+#~ msgid "List Style"
+#~ msgstr "استایل فهرست‌ها"
+
+#~ msgid "EQUAL IMAGE HEIGHTS"
+#~ msgstr "تصاویر با ارتفاع یکسان"
+
+#~ msgid "Equal Image height"
+#~ msgstr "تصاویر با ارتفاع یکسان"
+
+#~ msgid "Products per Page"
+#~ msgstr "تعداد محصولات در هر صفحه"
+
+#~ msgid "Products per row - Desktop"
+#~ msgstr "تعداد محصولات در هر ردیف - دسکتاپ"
+
+#~ msgid "Products per row - Tablet"
+#~ msgstr "تعداد محصولات در هر ردیف - تبلت"
+
+#~ msgid "Products per row - Mobile"
+#~ msgstr "تعداد محصولات در هر ردیف - موبایل"
+
+#~ msgid "Title Style"
+#~ msgstr "استایل عنوان"
+
+#~ msgid "Show title"
+#~ msgstr "نمایش عنوان"
+
+#~ msgid "Show home link in breadcrumb"
+#~ msgstr "نمایش پیوند خانه در breadcrumb"
+
+#~ msgid "Use Featured Images from categories and products as background. Will fallback to default Shop Title background if nothing is set."
+#~ msgstr "استفاده از تصاویر شاخص محصول و دسته‌ها برای پس‌زمینه. جایگزین پس‌زمینه پیش‌فرض عنوان فروشگاه اگر تعیین نشده باشد، خواهد شد."
+
+#~ msgid "Featured Image as Background"
+#~ msgstr "تصویر شاخص به عنوان پس‌زمینه"
+
+#~ msgid "Shop Title Background"
+#~ msgstr "پس‌زمینه عنوان فروشگاه"
+
+#~ msgid "Title Background Color"
+#~ msgstr "رنگ زمینه عنوان"
+
+#~ msgid "Custom Filter Text"
+#~ msgstr "متن دلخواه فیلتر"
+
+#~ msgid "Breadcrumb Size"
+#~ msgstr "اندازه Breadcrumb"
+
+#~ msgid "Change size of breadcrumb on product categories. Useful if you have long breadcrumbs."
+#~ msgstr "تغییر اندازه Breadcrumb در دسته‌های محصول. اگر Breadcrumb طولانی دارید کاربردی خواهد بود."
+
+#~ msgid "Breadcrumbs Case"
+#~ msgstr "کوچی و بزرگی حروف Breadcrumb"
+
+#~ msgid "Category Box Style"
+#~ msgstr "استایل باکس دسته‌بندی"
+
+#~ msgid "Show product count"
+#~ msgstr "نمایش تعداد محصولات"
+
+#~ msgid "Grid Style"
+#~ msgstr "استایل توری (Grid)"
+
+#~ msgid "Product Image Hover style"
+#~ msgstr "استایل هاور تصویر محصول"
+
+#~ msgid "None"
+#~ msgstr "هیچ‌کدام"
+
+#~ msgid "Back Image - Fade In"
+#~ msgstr "تصویر پشتی - محو شدن"
+
+#~ msgid "Back Image - Zoom In"
+#~ msgstr "تصویر پشتی - زوم کردن"
+
+#~ msgid "Drop Shadow"
+#~ msgstr "سایه"
+
+#~ msgid "Drop Shadow:hover"
+#~ msgstr "سایه:هاور"
+
+#~ msgid "Add To Cart Button"
+#~ msgstr "دکمه افزودن به سبد خرید"
+
+#~ msgid "Button Style"
+#~ msgstr "استایل دکمه"
+
+#~ msgid "Show Category"
+#~ msgstr "نمایش دسته‌بندی"
+
+#~ msgid "Show Ratings"
+#~ msgstr "نمایش امتیاز"
+
+#~ msgid "Show Short Description"
+#~ msgstr "نمایش توضیحات کوتاه"
+
+#~ msgid "Disable Quick View"
+#~ msgstr "غیرفعال سازی نمایش سریع"
+
+#~ msgid "Equalize Items"
+#~ msgstr "یکسان‌سازی ارتفاع آیتم‌ها"
+
+#~ msgid "Sale Bubble Style"
+#~ msgstr "استایل حباب فروش ویژه"
+
+#~ msgid "Custom Sale Bubble Text"
+#~ msgstr "متن دلخواه استایل حباب فروش ویژه"
+
+#~ msgid "Enable % instead of \"Sale!\""
+#~ msgstr "فعال سازی ٪ به جای \"فروش ویژه!\""
+
+#~ msgid "Sale Bubble % Formatting"
+#~ msgstr "قالب‌بندی حباب ٪ فروش ویژه"
+
+#~ msgid "How the discount should be displayed. e.g. -{value}%"
+#~ msgstr "تخفیف‌ها چگونه نمایش داده شوند. مثلا -{value}%"
+
+#~ msgid "My Account"
+#~ msgstr "حساب کاربری من"
+
+#~ msgid "Title Background Image"
+#~ msgstr "تصویر زمینه عنوان"
+
+#~ msgid "Title Align"
+#~ msgstr "تراز عنوان"
+
+#~ msgid "For logged in users only."
+#~ msgstr "تنها برای کاربران وارد شده."
+
+#~ msgid "Login Text"
+#~ msgstr "متن ورود"
+
+#~ msgid "Login Style"
+#~ msgstr "استایل ورود"
+
+#~ msgid "Social Button"
+#~ msgstr "دکمه‌های اجتماعی"
+
+#~ msgid "Change position of Social Login Buttons in lightbox."
+#~ msgstr "تغییر موقعیت دکمه‌های شبکه‌های اجتماعی در لایت‌باکس."
+
+#~ msgid "Top"
+#~ msgstr "بالا"
+
+#~ msgid "Bottom"
+#~ msgstr "پایین"
+
+#~ msgid "Enable default WooCommerce Account links in Dropdown and Account Sidebar. You can create a custom my account menu instead if you want."
+#~ msgstr "فعال‌سازی لینک‌های پیش‌فرض حساب کاربری ووکامرس در منوی کرکره‌ای و ستون کناری. می‌توانید در صورت تمایل از فهرست دلخواه استفاده کنید."
+
+#~ msgid "Payments Icons"
+#~ msgstr "آیکن‌های پرداخت"
+
+#~ msgid "Payment Icons"
+#~ msgstr "آیکن‌های پرداخت"
+
+#~ msgid "Custom Icons (Replace)"
+#~ msgstr "آیکن‌های دلخواه (جایگزین)"
+
+#~ msgid "Placement"
+#~ msgstr "محل قرارگیری"
+
+#~ msgid "Select where you want to show the payment icons"
+#~ msgstr "محلی که مایل به نمایش آیکن‌های پرداخت هستید را انتخاب کنید"
+
+#~ msgid "Absolute Footer"
+#~ msgstr "پانوشت مطلق"
+
+#~ msgid "Cart Sidebar"
+#~ msgstr "ستون کناری سبد خرید"
+
+#~ msgid "Product Box"
+#~ msgstr "باکس محصول"
+
+#~ msgid "Product Page"
+#~ msgstr "صفحه محصول"
+
+#~ msgid "Product Layout"
+#~ msgstr "طرح‌بندی محصول"
+
+#~ msgid "Custom product layout"
+#~ msgstr "طرح‌بندی دلخواه محصول"
+
+#~ msgid "Create a custom product layout by using the UX Builder. You need to select a Block and then open it in the UX Builder from a product page in the front-end."
+#~ msgstr "ساخت طرح‌بندی دلخواه محصول با استفاده از صفحه ساز UX. لازم است ابتدا بلاکی را انتخاب کنید و سپس آن را در صفحه ساز UX از صفحه محصول باز کنید."
+
+#~ msgid "Off-canvas Sidebar for Mobile"
+#~ msgstr "ستون‌کناری خارج از بوم برای موبایل"
+
+#~ msgid "Product Header"
+#~ msgstr "سربرگ محصول"
+
+#~ msgid "Next / Prev Navigation"
+#~ msgstr "نمایش دکمه‌های قبلی\\بعدی"
+
+#~ msgid "Product Image Width"
+#~ msgstr "عرض تصویر محصول"
+
+#~ msgid "8/12"
+#~ msgstr "8/12"
+
+#~ msgid "7/12"
+#~ msgstr "7/12"
+
+#~ msgid "6/12 (50%)"
+#~ msgstr "6/12 (50%)"
+
+#~ msgid "5/12"
+#~ msgstr "5/12"
+
+#~ msgid "4/12"
+#~ msgstr "4/12"
+
+#~ msgid "3/12"
+#~ msgstr "3/12"
+
+#~ msgid "2/12"
+#~ msgstr "2/12"
+
+#~ msgid "Product Image Style"
+#~ msgstr "استایل تصویر محصول"
+
+#~ msgid "Product Image Lightbox"
+#~ msgstr "لایت باکس تصویر محصول"
+
+#~ msgid "Show images in a lightbox when clicking on image in gallery. You might need to save and close Customizer for this to work properly."
+#~ msgstr "نمایش تصاویر را در یک لایت باکس پس از کلیک بر روی تصاویر گالری. ممکن است برای عملکرد صحیح این بخش شخصی ساز را ذخیره کنید و ببندید."
+
+#~ msgid "New WooCommerce 3.0 Lightbox"
+#~ msgstr "لایت باکس جدید ووکامرس ۳"
+
+#~ msgid "Flatsome Lightbox"
+#~ msgstr "لایت باکس فلت‌سام"
+
+#~ msgid "Old WooCommerce Lightbox"
+#~ msgstr "لایت باکس قدیمی ووکامرس"
+
+#~ msgid "Disable Lightbox"
+#~ msgstr "غیرفعال سازی لایت‌باکس"
+
+#~ msgid "Product Image Hover Zoom"
+#~ msgstr "بزرگ‌نمایی هاور تصویر محصول"
+
+#~ msgid "Show a zoomed version of image when hovering gallery"
+#~ msgstr "تصویر بزرگ‌شده ای از تصویر را هنگام هاور کردن نمایش بده"
+
+#~ msgid "Text Align"
+#~ msgstr "تراز متن"
+
+#~ msgid "Form Style"
+#~ msgstr "استایل فرم"
+
+#~ msgid "Minimal"
+#~ msgstr "مینی‌مال"
+
+#~ msgid "Product Title divider"
+#~ msgstr "جداساز عنوان محصول"
+
+#~ msgid "Sticky add to cart"
+#~ msgstr "افزودن به سبد خرید چسبان"
+
+#~ msgid "Show Review Count"
+#~ msgstr "نمایش تعداد بررسی‌ها"
+
+#~ msgid "Review Count Style"
+#~ msgstr "استایل شمارنده بررسی‌ها"
+
+#~ msgid "Tooltip"
+#~ msgstr "تول‌تیپ"
+
+#~ msgid "Stacked"
+#~ msgstr "انباشته"
+
+#~ msgid "Inline"
+#~ msgstr "داخل خطی"
+
+#~ msgid "Show Meta / Categories"
+#~ msgstr "نمایش توضیحات\\دسته‌بندی"
+
+#~ msgid "Show Share Icons"
+#~ msgstr "نمایش آیکن‌های اشتراک‌گذاری"
+
+#~ msgid "Open Cart dropdown when product is added to cart"
+#~ msgstr "باز شدن منو کرکره‌ای سبد خرید پس از افزودن محصول به سبد خرید"
+
+#~ msgid "Product Tabs Style"
+#~ msgstr "استایل تب‌های محصول"
+
+#~ msgid "Line Tabs"
+#~ msgstr "تب‌های خطی"
+
+#~ msgid "Tabs Normal"
+#~ msgstr "تب‌های معمولی"
+
+#~ msgid "Line Tabs - Grow"
+#~ msgstr "تب‌های خطی - بزرگ"
+
+#~ msgid "Tabs vertical"
+#~ msgstr "تب‌های عمودی"
+
+#~ msgid "Pills"
+#~ msgstr "قرص‌ها"
+
+#~ msgid "Sections"
+#~ msgstr "قسمت‌ها"
+
+#~ msgid "Product Tabs Align"
+#~ msgstr "تراز تب‌های محصول"
+
+#~ msgid "Global custom tab title"
+#~ msgstr "عنوان تب دلخواه سراسری"
+
+#~ msgid "Global custom tab content"
+#~ msgstr "محتوای تب دلخواه سراسری"
+
+#~ msgid "Product Upsell"
+#~ msgstr "مشوق‌های محصول (Upsell)"
+
+#~ msgid "In Sidebar"
+#~ msgstr "در ستون کناری"
+
+#~ msgid "Below Description"
+#~ msgstr "زیر توضیحات"
+
+#~ msgid "Disabled"
+#~ msgstr "غیرفعال"
+
+#~ msgid "Related Products Style"
+#~ msgstr "استایل محصولات مرتبط"
+
+#~ msgid "Slider"
+#~ msgstr "اسلایدر"
+
+#~ msgid "Grid"
+#~ msgstr "توری (Grid)"
+
+#~ msgid "Max number of Related Products"
+#~ msgstr "حداکثر تعداد محصولات مرتبط"
+
+#~ msgid "HTML before Add To Cart button"
+#~ msgstr "کد HTML قبل از دکمه افزودن به سبد خرید"
+
+#~ msgid "HTML after Add To Cart button"
+#~ msgstr "کد HTML بعد از دکمه افزودن به سبد خرید"
+
+#~ msgid "Move store notice to the top"
+#~ msgstr "انتقال پیام فروشگاه به بالا"
+
+#~ msgid "Share"
+#~ msgstr "اشتراک گذاری"
+
+#~ msgid "This is the default settings for the [share] shortcode and various share icons on the website."
+#~ msgstr "این تنظیمات پیش‌فرض شورت‌کد [share] و آیکن‌های اشتراک گذاری در نقاط مختلف سایت است."
+
+#~ msgid "Follow Icons"
+#~ msgstr "آیکن‌های ما را دنبال کنید"
+
+#~ msgid "This is the default settings for the [follow] shortcode and Social Icons header element."
+#~ msgstr "این تنظیمات پیش‌فرض شورت‌کد [follow] و آیکن‌های شبکه‌های اجتماعی در سربرگ سایت است."
+
+#~ msgid "Share Icons Style"
+#~ msgstr "استایل آیکن‌های اشتراک‌گذاری"
+
+#~ msgid "Share Icons"
+#~ msgstr "آیکن‌های اشتراک‌گذاری"
+
+#~ msgid "Share Replace"
+#~ msgstr "جایگزنی اشتراک‌گذاری"
+
+#~ msgid "Replace Share Icons with Custom Scripts etc."
+#~ msgstr "جایگزینی آیکن‌های اشتراک‌گذاری با اسکریپت‌های دلخواه یا غیره."
+
+#~ msgid "Icons Style"
+#~ msgstr "استایل آیکن‌ها"
+
+#~ msgid "Facebook"
+#~ msgstr "فیسبوک"
+
+#~ msgid "Twitter"
+#~ msgstr "توئیتر"
+
+#~ msgid "Pinterest"
+#~ msgstr "پینترست"
+
+#~ msgid "TikTok"
+#~ msgstr "تیک‌تاک"
+
+#~ msgid "LinkedIn"
+#~ msgstr "لینکدین"
+
+#~ msgid "YouTube"
+#~ msgstr "یوتیوب"
+
+#~ msgid "VKontakte"
+#~ msgstr "VKontakte"
+
+#~ msgid "Flickr"
+#~ msgstr "فلیکر"
+
+#~ msgid "RSS"
+#~ msgstr "فید RSS"
+
+#~ msgid "500px"
+#~ msgstr "500px"
+
+#~ msgid "SnapChat"
+#~ msgstr "اسنپ‌چت"
+
+#~ msgid "Colors"
+#~ msgstr "رنگ‌ها"
+
+#~ msgid "Primary Color"
+#~ msgstr "رنگ اصلی"
+
+#~ msgid "Change primary color."
+#~ msgstr "تغییر رنگ اصلی."
+
+#~ msgid "Secondary Color"
+#~ msgstr "رنگ ثانویه"
+
+#~ msgid "Change secondary color."
+#~ msgstr "تغییر رنگ ثانویه."
+
+#~ msgid "Success Color"
+#~ msgstr "رنگ موفقیت"
+
+#~ msgid "Change the success color. Used for global success messages."
+#~ msgstr "تغییر رنگ موفقیت. برای پیام‌های موفقیت سراسری استفاده شده است."
+
+#~ msgid "Alert Color"
+#~ msgstr "هشدار"
+
+#~ msgid "Change the alert color. Used for global error messages etc."
+#~ msgstr "تغییر رنگ موفقیت. برای پیام‌های هشدار سراسری استفاده شده است."
+
+#~ msgid "Base Color"
+#~ msgstr "رنگ پایه"
+
+#~ msgid "Used for all normal texts."
+#~ msgstr "برای همه متن‌های معمولی استفاده شده است."
+
+#~ msgid "Headline Color"
+#~ msgstr "رنگ عنوان‌ها"
+
+#~ msgid "Used for all headlines on white backgrounds. (H1, H2, H3 etc.)"
+#~ msgstr "برای همه عنوان‌ها در پس‌زمینه‌های سفید استفاده شده است.  (H1, H2, H3 و غیره.)"
+
+#~ msgid "Divider Color"
+#~ msgstr "رنگ جداساز"
+
+#~ msgid "Used for dividers."
+#~ msgstr "استفاده شده برای جداساز‌ها."
+
+#~ msgid "Link Colors"
+#~ msgstr "رنگ لینک‌ها"
+
+#~ msgid "Link Colors:hover"
+#~ msgstr "رنگ لینک‌ها:هاور"
+
+#~ msgid "Widget Link Colors"
+#~ msgstr "رنگ لینک‌های ابزارک"
+
+#~ msgid "Widget Link Colors:Hover"
+#~ msgstr "رنگ لینک‌های ابزارک:هاور"
+
+#~ msgid "Add to cart / Checkout buttons"
+#~ msgstr "دکمه‌های افزودن به سبد خرید \\ تسویه حساب"
+
+#~ msgid "Change color for checkout buttons. Default is Secondary color"
+#~ msgstr "تغییر رنگ دکمه تسویه حساب. پیش‌فرض رنگ ثانویه است"
+
+#~ msgid "Sale bubble"
+#~ msgstr "حباب فروش ویژه"
+
+#~ msgid "Change color of sale bubble. Default is Secondary color"
+#~ msgstr "تغییر رنگ حباب فروش ویژه. پیش‌فرض رنگ ثانویه است"
+
+#~ msgid "New bubble"
+#~ msgstr "حباب جدید"
+
+#~ msgid "Change color of the \"New\" bubble."
+#~ msgstr "تغییر رنگ حباب \"جدید\"."
+
+#~ msgid "Review Stars"
+#~ msgstr "ستاره‌های نقد و بررسی"
+
+#~ msgid "Change color of review stars"
+#~ msgstr "تغییر رنگ ستاره‌های نقد و بررسی"
+
+#~ msgid "Regular Price"
+#~ msgstr "قیمت عادی"
+
+#~ msgid "Change color of the regular price of an on sale product."
+#~ msgstr "تغییر رنگ قیمت پایه برای محصولات دارای تخفیف."
+
+#~ msgid "Sale Price"
+#~ msgstr "قیمت ویژه"
+
+#~ msgid "Change color of the sale price."
+#~ msgstr "تغییر رنگ قیمت فروش ویژه."
+
+#~ msgid "Custom Tablet CSS"
+#~ msgstr "CSS دلخواه برای تبلت"
+
+#~ msgid "Custom Mobile CSS"
+#~ msgstr "CSS دلخواه برای موبایل"
+
+#~ msgid "Global Styles"
+#~ msgstr "استایل‌های سراسری"
+
+#~ msgid "Default Button Radius"
+#~ msgstr "گردی پیش‌فرض دکمه‌ها"
+
+#~ msgid "Image Lightbox"
+#~ msgstr "لایت‌باکس تصویر"
+
+#~ msgid "Enable Flatsome Lightbox"
+#~ msgstr "فعال‌سازی لایت باکس فلت‌سام"
+
+#~ msgid "Lightbox background color"
+#~ msgstr "رنگ زمینه فعال‌سازی"
+
+#~ msgid "Use multiple galleries on a page"
+#~ msgstr "استفاده از چند گالری در یک صفحه"
+
+#~ msgid "When enabled, lightbox galleries on a page are treated separately, else combined in one gallery."
+#~ msgstr "هنگامی که فعال شود، گالری‌های استفاده از شده در صفحه به صورت مجزا باز می‌شوند، در غیر این صورت در یک لایت‌باکس باز خواهدن شد."
+
+#~ msgid "Disable Google Fonts. No fonts will be loaded from Google."
+#~ msgstr "غیرفعال‌سازی فونت گوگل. فونتی از گوگل لود نخواهد شد."
+
+#~ msgid "Google Fonts font-display type"
+#~ msgstr "نوع font-display فونت‌های گوگل"
+
+#~ msgid "Block"
+#~ msgstr "بلاک"
+
+#~ msgid "Swap"
+#~ msgstr "Swap"
+
+#~ msgid "Fallback"
+#~ msgstr "Fallback"
+
+#~ msgid "Optional"
+#~ msgstr "دلخواه"
+
+#~ msgid "Base Text Font"
+#~ msgstr "پایه فونت متن"
+
+#~ msgid "Base Font Size"
+#~ msgstr "اندازه پایه فونت"
+
+#~ msgid "Mobile Base Font Size"
+#~ msgstr "اندازه پایه فونت برای موبایل"
+
+#~ msgid "Alt font (.alt-font)"
+#~ msgstr "فونت جایگزین (.alt-font)"
+
+#~ msgid "Breadcrumbs"
+#~ msgstr "Breadcrumb"
+
+#~ msgid "Navigation / Tabs"
+#~ msgstr "لینک‌ها \\ تب‌ها"
+
+#~ msgid "Section Titles"
+#~ msgstr "عنوان بخش‌ها"
+
+#~ msgid "Widget Titles"
+#~ msgstr "عنوان ابزارک‌ها"
+
+#~ msgid "Welcome to Flatsome"
+#~ msgstr "به فلت سام خوش آمدید"
+
+#~ msgid "Flatsome"
+#~ msgstr "فلت‌سام"
+
+#~ msgid "Help & Guides"
+#~ msgstr "کمک و راهنمایی"
+
+#~ msgid "Change log"
+#~ msgstr "تاریخچه تغییرات"
+
+#~ msgid "Theme Options"
+#~ msgstr "تنظیمات قالب"
+
+#~ msgid "%s Comment"
+#~ msgid_plural "%s Comments"
+#~ msgstr[0] "%s دیدگاه"
+
+#~ msgid "Purchase code not updated. We will keep the existing one."
+#~ msgstr "کد خرید بروزرسانی نشد. کد قبلی را در نظر خواهیم گرفت."
+
+#~ msgid "<p>Find out how to <a href=\"https://help.market.envato.com/hc/en-us/articles/202822600-Where-Is-My-Purchase-Code-\" target=\"_blank\">get your purchase code</a> here.</p>"
+#~ msgstr "<p>از اینجا ببینید چطور <a href=\"https://zhaket.com/dashboard/downloads\" target=\"_blank\">کد لایسنس خود را دریافت کنید</a> </p>"
+
+#~ msgid "Display arrow on dropdown pane"
+#~ msgstr "نمایش فلش منو کرکره‌ای"
+
+#~ msgid "Select a category:"
+#~ msgstr "دسته‌ای انتخاب کنید:"
+
+#~ msgid "Select a page:"
+#~ msgstr "برگه‌ای انتخاب کنید:"
+
+#~ msgid "-- None --"
+#~ msgstr "-- هیچ کدام --"
+
+#~ msgid "Enable on homepage"
+#~ msgstr "فعال در صفحه اصلی"
+
+#~ msgid "Enable on all pages"
+#~ msgstr "فعال در همه صفحات"
+
+#~ msgid "UX Builder"
+#~ msgstr "صفحه‌ساز UX"
+
+#~ msgid "Lazy Loading"
+#~ msgstr "بارگزاری تنبل"
+
+#~ msgid "Lazy Load Google Fonts"
+#~ msgstr "بارگزاری تنبل فونت‌های گوگل"
+
+#~ msgid "Enable lazy loading of Google Fonts"
+#~ msgstr "بارگزاری تنبل فونت‌های گوگل"
+
+#~ msgid "Lazy Load Icons"
+#~ msgstr "بارگزاری تنبل آیکن‌ها"
+
+#~ msgid "Enable lazy loading of Flatsome interface icons"
+#~ msgstr "بارگزاری تنبل آیکن‌های فلت‌سام"
+
+#~ msgid "Enable lazy loading for images. <strong>Use with caution! Disable if you have plugin compability problems.</strong>"
+#~ msgstr "بارگزاری تنبل تصاویر<strong> با احتیاط استفاده کنید! اگر مشکل تداخل با افزونه‌ها را دارید این گزینه را غیرفعال کنید.</strong>"
+
+#~ msgid "Please check back soon.."
+#~ msgstr "لطفا بعدا مراجعه کنید..."
+
+#~ msgid "Custom Fonts"
+#~ msgstr "فونت های دلخواه"
+
+#~ msgid "Add custom fonts"
+#~ msgstr "افزودن فونت دلخواه"
+
+#~ msgid "<p style=\"font-size:16px\">To change font go to persian flatsome settings page</p>"
+#~ msgstr "<p style=\"font-size:16px\">برای تغییر فونت از منوی فلت سام گزینه فلت سام فارسی را انتخاب کنید</p>"
+
+#~ msgid "Add additional tab content here... Like Size Charts etc."
+#~ msgstr "محتوای تب اضافی دلخواه را اینجا وارد کنید ... شبیه به اندازه نمودارها و غیره."
+
+#~ msgid "Button (On click)"
+#~ msgstr "دکمه (با کلیک)"
+
+#~ msgid "Spinner"
+#~ msgstr "چرخنده"
+
+#~ msgid "Custom Image"
+#~ msgstr "تصویر دلخواه"
+
+#~ msgid "Ubermenu"
+#~ msgstr "اوبرمنو"
+
+#~ msgid "Enable full width UberMenu. You can also insert this elsewhere by using the UberMenu options."
+#~ msgstr "فعال‌سازی اوبرمنوی تمام عرض. همچنین می‌توانید با استفاده از گزینه‌های اوبرمنو این را قرار دهید."
+
+#~ msgid "Top Bar Background"
+#~ msgstr "رنگ پس‌زمینه نوار بالا"
+
+#~ msgid "Use a numeric value without the px unit suffix."
+#~ msgstr "از یک مقدار عددی بدون پسوند px استفاده کنید."
+
+#~ msgid "Site Boxed/Framed Width (px)"
+#~ msgstr "عرض باکس شده\\فریم به پیکسل"
+
+#~ msgid "Products pr. row"
+#~ msgstr "تعداد محصولات در هر ردیف"
+
+#~ msgid "Equalize box items to the same height"
+#~ msgstr "مساوی کردن ارتفاع جعبه‌ها"
+
+#~ msgid "Title background"
+#~ msgstr "پس‌زمینه عنوان"
+
+#~ msgid "Amazon"
+#~ msgstr "آمازون"
+
+#~ msgid "American Express"
+#~ msgstr "آمریکن اکسپرس"
+
+#~ msgid "Apple Pay"
+#~ msgstr "اپل پی"
+
+#~ msgid "AfterPay"
+#~ msgstr "افتر پی"
+
+#~ msgid "AfterPay 2"
+#~ msgstr "بعد از پرداخت ۲"
+
+#~ msgid "Atm"
+#~ msgstr "Atm"
+
+#~ msgid "Bancontact"
+#~ msgstr "Bancontact"
+
+#~ msgid "Bankomat"
+#~ msgstr "Bankomat"
+
+#~ msgid "Bank Transfer"
+#~ msgstr "انتقال بانکی"
+
+#~ msgid "BitCoin"
+#~ msgstr "بیت کوین"
+
+#~ msgid "Braintree"
+#~ msgstr "Braintree"
+
+#~ msgid "CartaSi"
+#~ msgstr "CartaSi"
+
+#~ msgid "CashCloud"
+#~ msgstr "CashCloud"
+
+#~ msgid "Cash On Delivery"
+#~ msgstr "پرداخت هنگام تحویل"
+
+#~ msgid "Cash on Pickup"
+#~ msgstr "پرداخت هنگام دریافت"
+
+#~ msgid "Cirrus"
+#~ msgstr "Cirrus"
+
+#~ msgid "Click and Buy"
+#~ msgstr "Click and Buy"
+
+#~ msgid "Credit Card"
+#~ msgstr "کارت اعتباری"
+
+#~ msgid "Credit Card 2"
+#~ msgstr "کارت اعتباری ۲"
+
+#~ msgid "DanKort"
+#~ msgstr "DanKort"
+
+#~ msgid "Dinners Club"
+#~ msgstr "Dinners Club"
+
+#~ msgid "Discover"
+#~ msgstr "دیسکاور"
+
+#~ msgid "Elo"
+#~ msgstr "Elo"
+
+#~ msgid "Eps"
+#~ msgstr "Eps"
+
+#~ msgid "Facture"
+#~ msgstr "Facture"
+
+#~ msgid "Fattura"
+#~ msgstr "Fattura"
+
+#~ msgid "Flattr"
+#~ msgstr "Flattr"
+
+#~ msgid "GiroPay"
+#~ msgstr "GiroPay"
+
+#~ msgid "Google Pay"
+#~ msgstr "گوگل پِی"
+
+#~ msgid "Google Wallet"
+#~ msgstr "گوگل ولت"
+
+#~ msgid "IDeal"
+#~ msgstr "IDeal"
+
+#~ msgid "Interac"
+#~ msgstr "Interac"
+
+#~ msgid "Invoice"
+#~ msgstr "Invoice"
+
+#~ msgid "Klarna"
+#~ msgstr "Klarna"
+
+#~ msgid "Maestro"
+#~ msgstr "Maestro"
+
+#~ msgid "MasterCard"
+#~ msgstr "مسترکارت"
+
+#~ msgid "MasterCard 2"
+#~ msgstr "مسترکارت ۲"
+
+#~ msgid "Ogone"
+#~ msgstr "Ogone"
+
+#~ msgid "Paybox"
+#~ msgstr "Paybox"
+
+#~ msgid "Paylife"
+#~ msgstr "Paylife"
+
+#~ msgid "PayMill"
+#~ msgstr "PayMill"
+
+#~ msgid "PayPal"
+#~ msgstr "پی‌پال"
+
+#~ msgid "PayPal 2"
+#~ msgstr "پی‌پال ۲"
+
+#~ msgid "PaySafe"
+#~ msgstr "PaySafe"
+
+#~ msgid "PayShop"
+#~ msgstr "PayShop"
+
+#~ msgid "PayU"
+#~ msgstr "PayU"
+
+#~ msgid "Postepay"
+#~ msgstr "Postepay"
+
+#~ msgid "Quick"
+#~ msgstr "Quick"
+
+#~ msgid "Rechung"
+#~ msgstr "Rechung"
+
+#~ msgid "Ripple"
+#~ msgstr "Ripple"
+
+#~ msgid "Sage"
+#~ msgstr "Sage"
+
+#~ msgid "Sepa"
+#~ msgstr "Sepa"
+
+#~ msgid "Six"
+#~ msgstr "Six"
+
+#~ msgid "Skrill"
+#~ msgstr "Skrill"
+
+#~ msgid "Sofort"
+#~ msgstr "Sofort"
+
+#~ msgid "Square"
+#~ msgstr "Square"
+
+#~ msgid "Stripe"
+#~ msgstr "Stripe"
+
+#~ msgid "Swish (SE)"
+#~ msgstr "Swish (SE)"
+
+#~ msgid "Truste"
+#~ msgstr "Truste"
+
+#~ msgid "UnionPay"
+#~ msgstr "UnionPay"
+
+#~ msgid "VeriSign"
+#~ msgstr "VeriSign"
+
+#~ msgid "Vipps"
+#~ msgstr "Vipps"
+
+#~ msgid "Visa"
+#~ msgstr "ویزا"
+
+#~ msgid "Visa 2"
+#~ msgstr "ویزا ۲"
+
+#~ msgid "Visa Electron"
+#~ msgstr "ویزا الکترون"
+
+#~ msgid "Western Union"
+#~ msgstr "Western Union"
+
+#~ msgid "Wirecard"
+#~ msgstr "Wirecard"
+
+#~ msgid "<p style=\"font-size:16px\">We are working on a new solution for adding custom fonts to Flatsome. Meanwhile follow this guide: <a href=\"//uxthemes.helpscoutdocs.com/article/224-add-custom-fonts-to-flatsome\" target=\"_blank\">Add Custom fonts to Flatsome</p></a>"
+#~ msgstr "<p style=\"font-size:16px\">برای انتخاب فونت فارسی از لینک استفاده کنید: <a href=\"//uxthemes.helpscoutdocs.com/article/224-add-custom-fonts-to-flatsome\" target=\"_blank\">افزودن فونت دلخواه به فلت‌سام</p></a>"
+
+#~ msgid "Flatsome Admin translation"
+#~ msgstr "مترجم بخش مدیریت پوسته فلت‌سام"
+
+#~ msgid "%s Left Elements"
+#~ msgstr "المان‌های چپ %s"
+
+#~ msgid "Right Elements %s"
+#~ msgstr "المان‌های راست %s"
+
+#~ msgid "Header Sidebar / Mobile"
+#~ msgstr "ستون کناری سربرگ \\ موبایل"
+
+#~ msgid "Cart and Checkout"
+#~ msgstr "سبد خرید و تسویه حساب"
+
+#~ msgid "Simple (New)"
+#~ msgstr "ساده (جدید)"
+
+#~ msgid "Category Page"
+#~ msgstr "صفحه دسته‌بندی"
+
+#~ msgid "Shop"
+#~ msgstr "فروشگاه"
+
+#~ msgid "Change Theme Header Options here. Try use the \"Presets\" to quickly create the header you like"
+#~ msgstr "تنظیمات سربرگ پوسته را از اینجا تغییر دهید. با استفاده از \"پیش‌ساخته‌ها\" به سرعت سربرگی که دوست دارید را بسازید."

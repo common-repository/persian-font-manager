@@ -1,0 +1,109 @@
+@font-face {
+    font-family: Tanha;
+    src: url('../fonts/tanha/Tanha.eot');
+    src: url('../fonts/tanha/Tanha.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/tanha/Tanha.woff') format('woff'),
+    url('../fonts/tanha/Tanha.ttf') format('truetype');
+    font-weight: normal;
+}
+
+* {
+    font-family: "Tanha", sans-serif
+}
+
+body {
+    font-family: "Tanha", sans-serif
+}
+
+.nav > li > a {
+    font-family: "Tanha", sans-serif !important;
+}
+
+h1, h2, h3, h4, h5, h6, .heading-font {
+    font-family: "Tanha", sans-serif !important;
+}
+
+.alt-font {
+    font-family: "Tanha", sans-serif !important;
+}
+.cart-icon strong {
+    font-family: "Tanha", sans-serif !important;
+}
+
+.post-title {
+    direction: rtl;
+}
+
+.from_the_blog_excerpt {
+    direction: rtl;
+}
+
+.mfp-ready .mfp-arrow-right, .mfp-ready .mfp-arrow-left {
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+
+body.rtl .uppercase,
+body.rtl h6,
+body.rtl th,
+body.rtl span.widget-title {
+    letter-spacing: 0;
+}
+
+input[type='email'], input[type='date'], input[type='search'], input[type='number'], input[type='text'], input[type='tel'], input[type='url'], input[type='password'], textarea, select, .select2-container .select2-choice, .select2-container .select2-selection {
+    direction: rtl;
+}
+
+body.rtl .stars a + a {
+    padding-right: .6em;
+}
+
+body.rtl .ux-timer {
+    direction: ltr;
+}
+
+.post-title {
+    direction: rtl;
+}
+
+.from_the_blog_excerpt {
+    direction: rtl;
+}
+
+.mfp-ready .mfp-arrow-right, .mfp-ready .mfp-arrow-left {
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+
+body.rtl .box-list-view .box .box-image,
+body.rtl .box-list-view .box .box-text,
+body.rtl .box-vertical .box-image,
+body.rtl .box-vertical .box-text {
+    direction: rtl
+}
+
+/*.nav-dropdown {*/
+/*    top: 100%;*/
+/*}*/
+@media (min-width: 850px) {
+    .slider-nav-outside .flickity-prev-next-button.next {
+        left: auto;
+        right: 98%;
+    }
+}
+
+
+body.rtl [data-animate="fadeInLeft"], body.rtl .slider [data-animate="fadeInLeft"] {
+    transform: translate3d(-30px, 0, 0);
+}
+
+body.rtl .wishlist-popup {
+    right: auto;
+    left: 0;
+}
